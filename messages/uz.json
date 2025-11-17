@@ -1,0 +1,336 @@
+{
+  "HomePage": {
+    "title": "Koreyada Hayot Qo'llanmasi",
+    "description": "Janubiy Koreyada yashash, ishlash va o'qish haqida keng qamrovli axborot portali",
+    "lifeCard": {
+      "title": "Hayot",
+      "description": "Koreyada kundalik hayot haqida amaliy ma'lumotlar"
+    },
+    "workCard": {
+      "title": "Ish",
+      "description": "Koreyada ish topish va ishlash bo'yicha qo'llanma"
+    },
+    "studyCard": {
+      "title": "O'qish",
+      "description": "Koreyada ta'lim va o'qish haqida ma'lumotlar"
+    },
+    "libraryCard": {
+      "title": "Kutubxona",
+      "description": "Koreys tilini o'rganish uchun PDF kitoblar to'plami"
+    },
+    "travelCard": {
+      "title": "Sayohat",
+      "description": "Koreyada sayohat qilish bo'yicha to'liq qo'llanma"
+    },
+    "halalCard": {
+      "title": "Halol",
+      "description": "Koreyadagi musulmonlar uchun to'liq qo'llanma"
+    },
+    "getStarted": "Boshlash",
+    "getStartedDescription": "Koreyada yashash, ishlash va o'qish haqida ma'lumotlarni o'rganing",
+    "startChat": "Kutubxonaga o'tish"
+  },
+  "Header": {
+    "home": "Bosh sahifa",
+    "life": "Hayot",
+    "work": "Ish",
+    "study": "O'qish",
+    "library": "Kutubxona",
+    "travel": "Sayohat",
+    "halal": "Halol",
+    "chat": "Chat",
+    "signIn": "Kirish",
+    "signOut": "Chiqish"
+  },
+  "Footer": {
+    "description": "Koreyada yashash, ishlash va o'qish haqida keng qamrovli ma'lumotlar taqdim etamiz",
+    "quickLinks": "Tezkor havolalar",
+    "life": "Hayot",
+    "work": "Ish",
+    "study": "O'qish",
+    "travel": "Sayohat",
+    "halal": "Halol",
+    "resources": "Resurslar",
+    "library": "Kutubxona",
+    "legal": "Huquqiy",
+    "privacy": "Maxfiylik siyosati",
+    "terms": "Xizmat shartlari",
+    "rights": "Barcha huquqlar himoyalangan"
+  },
+  "ChatPage": {
+    "title": "AI Chat Yordamchisi",
+    "description": "Koreyada yashash, ishlash va o'qish haqida har qanday narsani so'rang",
+    "signInRequired": "Kirish talab qilinadi",
+    "signInDescription": "Chat xizmatidan foydalanish uchun Google hisobi bilan kiring",
+    "signInWithGoogle": "Google orqali kirish"
+  },
+  "Chat": {
+    "welcome": "Salom! Koreyada yashash, ishlash va o'qish haqida har qanday narsani so'rang.",
+    "placeholder": "Xabaringizni kiriting...",
+    "error": "Kechirasiz, xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
+  },
+  "LifePage": {
+    "title": "Koreyada Hayot",
+    "description": "Koreyada kundalik hayot bo'yicha keng qamrovli qo'llanma",
+    "viewMore": "Batafsil ko'rish",
+    "accommodation": {
+      "title": "Uy-joy",
+      "content": "Koreyada turli xil uy-joy variantlari mavjud, jumladan bir xonali kvartiralar, ofis-tellar va kvartiralar. Jeonse (depozit) va wolse (oylik ijara) tizimlari keng qo'llaniladi."
+    },
+    "healthcare": {
+      "title": "Sog'liqni saqlash",
+      "content": "Koreyada ajoyib sog'liqni saqlash tizimi mavjud. Milliy sog'liqni sug'urta bilan siz arzon narxlarda tibbiy xizmatlardan foydalanishingiz mumkin."
+    },
+    "transportation": {
+      "title": "Transport",
+      "content": "Koreyada samarali jamoat transport tizimi mavjud. Siz metro, avtobuslar, taksilar va boshqalardan qulay T-money kartasi bilan foydalanishingiz mumkin."
+    },
+    "culture": {
+      "title": "Madaniyat",
+      "content": "Koreys madaniyati an'anaviy va zamonaviy elementlarni birlashtirgan noyob madaniyatdir. Hurmat, odob va jamoaviy g'oyalar muhim qadriyatlar hisoblanadi."
+    },
+    "banking": {
+      "title": "Bank ishlari",
+      "content": "Koreyada turli xil banklar mavjud. Debit kartalar, kredit kartalar va internet bank xizmatlari keng qo'llaniladi. Chet elliklar ham bank hisobini ochishi mumkin, identifikatsiya talab qilinadi."
+    },
+    "shopping": {
+      "title": "Xarid qilish",
+      "content": "Koreya xarid qilish jannati. Myeongdong, Hongdae va Itaewon kabi turli xil xarid qilish hududlari mavjud, onlayn xarid markazlari ham juda rivojlangan. Chet ellik sayyohlar uchun mashhur bo'lgan ko'plab bejo xarid do'konlari mavjud."
+    },
+    "food": {
+      "title": "Ovqat",
+      "content": "Koreys ovqati sog'lom va mazali. Kimchi, bulgogi va bibimbap mashhur bo'lib, turli xil restoranlar va ovqatxonalar mavjud. Yetkazib berish xizmatlari ham juda rivojlangan va qulay."
+    },
+    "language": {
+      "title": "Til",
+      "content": "Koreys tili Koreyada yashash uchun muhim. Koreys tili ko'nikmalarini yaxshilash kundalik hayotni ancha osonlashtiradi. Turli xil koreys tili akademiyalari va onlayn kurslar mavjud, TOPIK testiga tayyorlanish mumkin."
+    }
+  },
+  "WorkPage": {
+    "title": "Koreyada Ish",
+    "description": "Koreyada ish topish va ishlash bo'yicha keng qamrovli qo'llanma",
+    "viewMore": "Batafsil ko'rish",
+    "visa": {
+      "title": "Viza",
+      "content": "Koreyada ishlash uchun tegishli ish vizasi kerak. Turli xil viza turlari, shu jumladan E-9, E-7, F-2 va boshqalar mavjud."
+    },
+    "jobSearch": {
+      "title": "Ish qidirish",
+      "content": "Koreys ish bozorida raqobat yuqori. Onlayn ish saytlari, stajirovka dasturlari va tarmoq orqali imkoniyatlar topishingiz mumkin."
+    },
+    "workCulture": {
+      "title": "Ish madaniyati",
+      "content": "Koreys ish madaniyati ierarxik va vertikal. Hurmat va hamkorlik muhim, kompaniya kechki ovqatlari (hoesik) keng tarqalgan."
+    },
+    "salary": {
+      "title": "Maosh",
+      "content": "Koreyadagi o'rtacha maosh sanoat va ish turiga qarab farq qiladi. IT, moliya va ishlab chiqarish sanoati yuqori maosh taklif qiladi, yillik maosh tizimlari keng tarqalgan. Bonus tizimi ham mavjud, shuning uchun yil oxirida qo'shimcha daromad olishingiz mumkin."
+    },
+    "workingHours": {
+      "title": "Ish vaqti",
+      "content": "Koreyadagi odatiy ish vaqti haftasiga 40 soat. Biroq, ko'plab kompaniyalarda qo'shimcha ish vaqti mavjud va moslashuvchan ish tizimlari asta-sekin tarqalmoqda. 5 kunlik ish haftasi standartdir."
+    },
+    "taxes": {
+      "title": "Soliqlar",
+      "content": "Koreyada ishdan olingan daromaddan daromad solig'i undiriladi. Siz daromad solig'i va mahalliy soliq to'lashingiz kerak va yil oxiridagi soliq hisob-kitobi orqali qaytarib olishingiz mumkin."
+    },
+    "resume": {
+      "title": "Rezyume",
+      "content": "Koreys rezyumelari maxsus formatga ega. Rasm talab qilinadi va ta'lim, martaba va malakalaringizni batafsil ko'rsatishingiz kerak. Xat ham muhim elementdir."
+    },
+    "interview": {
+      "title": "Suhbat",
+      "content": "Koreys suhbati odatda bir necha bosqichda davom etadi. Birinchi hujjatlar tanlovi, ikkinchi suhbat, yakuniy suhbat va boshqalar mavjud. Rasmiy kiyim kiyish odatiy holdir va odobni saqlash muhimdir."
+    }
+  },
+  "StudyPage": {
+    "title": "Koreyada O'qish",
+    "description": "Koreyada ta'lim va o'qish bo'yicha keng qamrovli qo'llanma",
+    "viewMore": "Batafsil ko'rish",
+    "universities": {
+      "title": "Universitetlar",
+      "content": "Koreyada ko'plab ajoyib universitetlar mavjud. Seul Milliy Universiteti, Yonsei Universiteti va Koreya Universiteti taniqli."
+    },
+    "scholarships": {
+      "title": "Stipendiyalar",
+      "content": "Koreys hukumati va universitetlar turli xil stipendiya dasturlarini taklif qiladi. Muvaffaqiyatga asoslangan stipendiyalar va xalqaro talabalar uchun stipendiyalar mavjud."
+    },
+    "admission": {
+      "title": "Qabul",
+      "content": "Koreys universitetlariga qabul juda raqobatbardosh. Koreys tili bilimi, akademik natijalar va tavsiya xatlari muhimdir."
+    },
+    "languageRequirements": {
+      "title": "Til talablari",
+      "content": "Ko'pchilik koreys universitetlari koreys tilini bilishni talab qiladi. TOPIK test ballari talab qilinadi va ba'zi universitetlar ingliz tilida o'qitiladigan dasturlarni ham taklif qiladi. Koreys tili akademiyalarida tayyorlanish mumkin."
+    },
+    "costs": {
+      "title": "Xarajatlar",
+      "content": "Koreys universitetlari o'quv haqi universitetga qarab farq qiladi. Davlat universitetlari nisbatan arzon, xususiy universitetlar esa qimmatroq. Yashash xarajatlari, yashash joyi va darslik xarajatlarini hisobga olish kerak."
+    },
+    "studentLife": {
+      "title": "Talaba hayoti",
+      "content": "Koreys universitet hayoti turli xil faoliyatlar bilan jonli. Siz klublar, festivallar va talabalar almashish dasturlaridan bahramand bo'lishingiz mumkin."
+    },
+    "partTimeWork": {
+      "title": "Qo'shimcha ish",
+      "content": "Xalqaro talabalar ham vizasi ruxsat bergan doirada qo'shimcha ish bilan shug'ullanishlari mumkin. Siz kafelarda, do'konlarda, restoranlarda va boshqalarda ishlashingiz mumkin va minimal soatlik ish haqi kafolatlanadi."
+    },
+    "afterGraduation": {
+      "title": "Graduatsiyadan keyin",
+      "content": "Koreys universitetini tugatgandan so'ng, siz ish vizasiga o'tishingiz yoki vataningizga qaytishingiz mumkin. Agar Koreyada ishlashni xohlasangiz, koreys tili bilimi va professional bilim muhimdir."
+    }
+  },
+  "TravelPage": {
+    "title": "Koreyada Sayohat",
+    "description": "Koreyada sayohat va turizm bo'yicha to'liq qo'llanma",
+    "viewMore": "Batafsil ko'rish",
+    "popularDestinations": {
+      "title": "Mashhur yo'nalishlar",
+      "content": "Koreya ko'plab ajoyib yo'nalishlarni taklif qiladi. Seul, Busan, Jeju oroli va Gyeongju sayyohlar uchun tashrif buyurish kerak bo'lgan joylardir."
+    },
+    "touristTransportation": {
+      "title": "Turist transporti",
+      "content": "Ajoyib jamoat transporti tizimi bilan Koreyada harakatlanish oson. Metro, avtobuslar va poezdlar barcha asosiy turistik yo'nalishlarni bog'laydi."
+    },
+    "hotelsAccommodation": {
+      "title": "Mehmonxonalar va yashash joylari",
+      "content": "Koreya turistlar uchun turli xil yashash joylarini taklif qiladi, hashamatli mehmonxonalardan an'anaviy hanok yashash joylarigacha va byudjetli mehmonxonalargacha."
+    },
+    "foodRestaurants": {
+      "title": "Ovqat va restoranlar",
+      "content": "Koreys oshxonasi har qanday sayohatning diqqat markazidir. Ko'cha ovqatlaridan tortib hashamatli restoranlargacha, kashf etish uchun cheksiz restoranlar va ovqat tajribalari mavjud."
+    },
+    "cultureTraditions": {
+      "title": "Madaniyat va an'analar",
+      "content": "An'anaviy spektakllar, ibodatxonalar, saroylar va yil davomida bo'ladigan madaniy festivallar orqali Koreyaning boy madaniyatini bosing."
+    },
+    "tripPlanning": {
+      "title": "Sayohat rejalashtirish",
+      "content": "Eng yaxshi tashrif buyurish vaqti, marshrut takliflari va muhim sayohat ma'lumotlari bo'yicha maslahatlar bilan Koreyaga mukammal sayohatni rejalashtiring."
+    },
+    "seasonsWeather": {
+      "title": "Fasllar va ob-havo",
+      "content": "Koreyada to'rt aniq fasl mavjud. Bahor va kuz sayohat uchun ideal, bahorda gilos gullari va kuzda rang-barang barglar bilan."
+    },
+    "travelBudget": {
+      "title": "Sayohat byudjeti",
+      "content": "Koreyani turli byudjetlar bilan sayohat qilish mumkin. Yashash, ovqat, transport va faoliyat xarajatlari haqida bilib oling va xarajatlaringizni rejalashtiring."
+    },
+    "touristSafety": {
+      "title": "Turistlar xavfsizligi",
+      "content": "Koreya dunyodagi eng xavfsiz mamlakatlardan biridir. Xavfsizlik maslahatlari, favqulodda vaziyatlar uchun aloqa raqamlari va sayohat paytida xavfsiz bo'lish usullari haqida bilib oling."
+    },
+    "attractions": {
+      "title": "Diyorlar",
+      "content": "Saroylar, ibodatxonalar, muzeylar, tematik parklar va mamlakatning go'zalligini namoyish etuvchi tabiiy mo'jizalar, shu jumladan Koreyaning eng yaxshi diyorlarini kashf eting."
+    }
+  },
+  "HalalPage": {
+    "title": "Koreyada Halol",
+    "description": "Koreyada yashayotgan yoki tashrif buyurayotgan musulmonlar uchun to'liq qo'llanma",
+    "viewMore": "Batafsil ko'rish",
+    "halalRestaurants": {
+      "title": "Halol restoranlar",
+      "content": "Koreya bo'ylab halol sertifikatlangan restoranlar va musulmonlarga mos ovqatlanish joylarini toping. Itaewon, Seul va boshqa yirik shaharlardagi ko'plab restoranlar halol ovqat taklif qiladi."
+    },
+    "mosques": {
+      "title": "Masjidlar",
+      "content": "Koreyadagi masjidlar va islomiy namoz o'qish joylarini kashf eting. Itaewondagi Seul markaziy masjidi eng kattasi bo'lib, yirik shaharlarda bir nechta boshqa masjidlar mavjud."
+    },
+    "halalFood": {
+      "title": "Halol ovqat",
+      "content": "Halol ovqat variantlari, halol sertifikatlash va Koreya supermarketlari va do'konlarida halol ingredientlar va mahsulotlarni qayerda topish mumkinligi haqida bilib oling."
+    },
+    "islamicCommunity": {
+      "title": "Islomiy jamoatchilik",
+      "content": "Koreyadagi musulmon jamoasi bilan bog'laning. Islomiy markazlar, jamoatchilik tadbirlari va musulmonlar uchun yordam tarmoqlari haqida ma'lumot toping."
+    },
+    "prayerFacilities": {
+      "title": "Namoz o'qish joylari",
+      "content": "Koreya bo'ylab aeroportlar, savdo markazlari, universitetlar va jamoat joylarida kunlik namozlar uchun namozxonalar va inshootlarni toping."
+    },
+    "halalShopping": {
+      "title": "Halol xarid qilish",
+      "content": "Koreyaning savdo tumanlari va onlayn do'konlarida halol sertifikatlangan mahsulotlar, islomiy kiyimlar, namoz buyumlari va boshqa musulmon ehtiyojlarini toping."
+    },
+    "islamicEvents": {
+      "title": "Islomiy tadbirlar",
+      "content": "Koreyadagi musulmon jamoasi tomonidan tashkil etilgan islomiy bayramlar, jamoatchilik yig'ilishlari, diniy tadbirlar va madaniy bayramlar haqida xabardor bo'ling."
+    },
+    "muslimFriendlyServices": {
+      "title": "Musulmonlarga mos xizmatlar",
+      "content": "Islomiy talablar va afzalliklarni qondiradigan musulmonlarga mos mehmonxonalar, sayohat xizmatlari, sog'liqni saqlash muassasalari va boshqa xizmatlarni kashf eting."
+    }
+  },
+  "PrivacyPage": {
+    "title": "Maxfiylik siyosati",
+    "lastUpdated": "Oxirgi yangilanish: 2024",
+    "section1": {
+      "title": "Ma'lumot to'plash",
+      "content": "Biz faqat xizmatlarimizni ko'rsatish uchun zarur bo'lgan minimal ma'lumotlarni to'playmiz. Google orqali kirish orqali elektron pochta manzilingiz va ismingizni to'plashingiz mumkin."
+    },
+    "section2": {
+      "title": "Ma'lumotlardan foydalanish",
+      "content": "To'plangan ma'lumotlar faqat xizmat ko'rsatish, yaxshilash va mijozlarni qo'llab-quvvatlash maqsadida ishlatiladi."
+    },
+    "section3": {
+      "title": "Ma'lumotlarni himoya qilish",
+      "content": "Biz shaxsiy ma'lumotlaringizni himoya qilish uchun mos texnik va ma'muriy xavfsizlik choralarini qo'llaymiz."
+    },
+    "section4": {
+      "title": "Cookie'lar",
+      "content": "Biz xizmat funksionalligi uchun zarur cookie'lardan foydalanamiz. Siz cookie'larni brauzer sozlamalari orqali boshqarishingiz mumkin."
+    },
+    "section5": {
+      "title": "Aloqa",
+      "content": "Agar maxfiylik siyosatimiz haqida savollaringiz bo'lsa, iltimos, biz bilan bog'laning."
+    }
+  },
+  "TermsPage": {
+    "title": "Xizmat shartlari",
+    "lastUpdated": "Oxirgi yangilanish: 2024",
+    "section1": {
+      "title": "Xizmatdan foydalanish",
+      "content": "Ushbu xizmat Koreyada yashash, ishlash va o'qish haqida ma'lumot beradi. Xizmatdan foydalanish orqali siz ushbu shartlarga rozilik bildirasiz."
+    },
+    "section2": {
+      "title": "Foydalanuvchi javobgarligi",
+      "content": "Foydalanuvchilar xizmatdan to'g'ri va qonuniy foydalanish uchun javobgardirlar."
+    },
+    "section3": {
+      "title": "Intellektual mulk",
+      "content": "Ushbu veb-saytdagi barcha kontent mualliflik huquqi bilan himoyalangan. Ruxsatsiz foydalanish taqiqlangan."
+    },
+    "section4": {
+      "title": "Xizmat o'zgarishlari",
+      "content": "Biz xizmatni oldindan xabar bermasdan o'zgartirish yoki to'xtatish huquqiga egamiz."
+    },
+    "section5": {
+      "title": "Javobgarlikdan voz kechish",
+      "content": "Biz xizmat orqali taqdim etilgan ma'lumotlarning to'g'riligi yoki to'liqligini kafolatlamaymiz."
+    }
+  },
+  "SignInPage": {
+    "title": "Kirish",
+    "description": "Xizmatdan foydalanish uchun Google hisobingiz bilan kiring",
+    "signInWithGoogle": "Google orqali kirish",
+    "signingIn": "Kirilmoqda...",
+    "terms": "Tizimga kirish orqali siz Xizmat shartlari va Maxfiylik siyosatiga rozilik bildirasiz."
+  },
+  "LibraryPage": {
+    "title": "Kutubxona",
+    "description": "Koreys tilini o'rganish uchun PDF kitoblar to'plami",
+    "loading": "Yuklanmoqda...",
+    "noBooks": "Hali kitoblar mavjud emas",
+    "download": "Yuklab olish",
+    "view": "Ko'rish",
+    "categories": {
+      "all": "Barchasi",
+      "vocabulary": "Lug'at",
+      "grammar": "Grammatika",
+      "topik": "TOPIK",
+      "writing": "Yozish"
+    }
+  }
+}
+

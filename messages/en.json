@@ -1,0 +1,343 @@
+{
+  "HomePage": {
+    "title": "Life in Korea Guide",
+    "description": "Comprehensive information portal about life, work, and study in South Korea",
+    "lifeCard": {
+      "title": "Life",
+      "description": "Practical information about daily life in Korea"
+    },
+    "workCard": {
+      "title": "Work",
+      "description": "Guide to employment and work in Korea"
+    },
+    "studyCard": {
+      "title": "Study",
+      "description": "Information about education and studying in Korea"
+    },
+    "libraryCard": {
+      "title": "Library",
+      "description": "Collection of PDF books for Korean language learning"
+    },
+    "travelCard": {
+      "title": "Travel",
+      "description": "Complete guide to traveling in Korea"
+    },
+    "halalCard": {
+      "title": "Halal",
+      "description": "Complete guide for Muslims in Korea"
+    },
+    "getStarted": "Get Started",
+    "getStartedDescription": "Explore information about life, work, and study in Korea",
+    "startChat": "Visit Library"
+  },
+  "Header": {
+    "home": "Home",
+    "life": "Life",
+    "work": "Work",
+    "study": "Study",
+    "library": "Library",
+    "travel": "Travel",
+    "halal": "Halal",
+    "chat": "Chat",
+    "signIn": "Sign In",
+    "signOut": "Sign Out"
+  },
+  "Footer": {
+    "description": "Providing comprehensive information about life, work, and study in Korea",
+    "quickLinks": "Quick Links",
+    "life": "Life",
+    "work": "Work",
+    "study": "Study",
+    "travel": "Travel",
+    "resources": "Resources",
+    "library": "Library",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved"
+  },
+  "ChatPage": {
+    "title": "AI Chat Assistant",
+    "description": "Ask anything about life, work, and study in Korea",
+    "signInRequired": "Sign In Required",
+    "signInDescription": "Please sign in with your Google account to use the chat feature",
+    "signInWithGoogle": "Sign In with Google"
+  },
+  "Chat": {
+    "welcome": "Hello! Ask me anything about life, work, and study in Korea.",
+    "placeholder": "Type your message...",
+    "error": "Sorry, an error occurred. Please try again."
+  },
+  "LifePage": {
+    "title": "Life in Korea",
+    "description": "Comprehensive guide to daily life in Korea",
+    "viewMore": "View More",
+    "accommodation": {
+      "title": "Accommodation",
+      "content": "Korea offers various housing options including one-room apartments, officetels, and apartments. The jeonse (deposit) and wolse (monthly rent) systems are commonly used.",
+      "details": "Korea offers a wide range of housing options to suit different needs and budgets. One-room apartments (원룸) are popular among single individuals and students, typically ranging from 15-30 square meters. Officetels (오피스텔) combine residential and office spaces, ideal for young professionals. Regular apartments (아파트) offer more space and amenities for families.\n\nThe jeonse (전세) system is unique to Korea - you pay a large deposit (usually 50-80% of the property value) and live rent-free for 2 years, then get your deposit back. Wolse (월세) is the monthly rent system, where you pay a smaller deposit plus monthly rent.\n\nWhen searching for accommodation, consider factors like proximity to public transportation, safety of the neighborhood, and nearby amenities. Real estate agencies (부동산) can help you find suitable housing, but be aware of agency fees (보증금). Always inspect the property thoroughly before signing any contracts."
+    },
+    "healthcare": {
+      "title": "Healthcare",
+      "content": "Korea has an excellent healthcare system. With National Health Insurance, you can access medical services at affordable costs.",
+      "details": "South Korea boasts one of the world's most advanced and accessible healthcare systems. The National Health Insurance Service (NHIS) provides comprehensive coverage to all residents, including foreigners who have been in Korea for more than 6 months.\n\nMedical facilities in Korea are modern and well-equipped. Hospitals are categorized into three levels: clinics (의원), general hospitals (종합병원), and university hospitals (대학병원). Most doctors speak English, and many hospitals have international departments.\n\nTo use the healthcare system, you need to register for National Health Insurance. Premiums are typically around 3-5% of your income. With insurance, you pay only 20-30% of medical costs, making healthcare very affordable.\n\nPharmacies (약국) are widespread and easily accessible. Prescription medications require a doctor's prescription, but many over-the-counter medications are available. Emergency services can be reached by dialing 119 for medical emergencies."
+    },
+    "transportation": {
+      "title": "Transportation",
+      "content": "Korea has an efficient public transportation system. You can use subways, buses, taxis, and more with the convenient T-money card.",
+      "details": "Korea's public transportation system is one of the most efficient and convenient in the world. The Seoul Metropolitan Subway system is extensive, covering the entire metropolitan area with 22 lines. Subway trains run frequently (every 2-5 minutes during peak hours) and are clean, safe, and punctual.\n\nThe bus system complements the subway with various types: regular buses (일반버스), express buses (급행버스), and village buses (마을버스). Bus routes are well-integrated with subway stations.\n\nThe T-money card is a rechargeable smart card that works on all public transportation. You can purchase and recharge it at convenience stores, subway stations, and bus terminals. Simply tap the card when boarding and alighting.\n\nTaxis are readily available and relatively affordable. Regular taxis (일반택시) are black, while deluxe taxis (모범택시) are more expensive but offer premium service. Most taxi drivers don't speak English, so it's helpful to have your destination written in Korean or use a navigation app.\n\nFor intercity travel, Korea has an excellent KTX (high-speed rail) system connecting major cities, as well as express buses and domestic flights."
+    },
+    "culture": {
+      "title": "Culture",
+      "content": "Korean culture is unique, blending tradition and modernity. Respect, courtesy, and collectivism are important values.",
+      "details": "Korean culture is a fascinating blend of ancient traditions and modern innovations. Confucian values deeply influence Korean society, emphasizing respect for elders, family harmony, and social hierarchy.\n\nKey cultural aspects include:\n\n- **Hierarchy and Respect**: Age and social status matter greatly. Always show respect to elders and use appropriate honorific language (존댓말).\n\n- **Collectivism**: Group harmony is valued over individual desires. This is evident in workplace culture, family dynamics, and social interactions.\n\n- **Face (체면)**: Maintaining dignity and reputation is crucial. Avoid causing others to lose face in public.\n\n- **Gift Giving**: Gifts are important for building relationships. When visiting someone's home, bring a small gift. Gifts should be given and received with both hands.\n\n- **Dining Etiquette**: Wait for the eldest person to start eating. Never stick chopsticks upright in rice (associated with funerals). Pour drinks for others, not yourself.\n\n- **Business Culture**: Business cards (명함) are exchanged with both hands. Bowing is common. Company dinners (회식) are important for team bonding.\n\nUnderstanding and respecting these cultural norms will help you integrate better into Korean society."
+    },
+    "banking": {
+      "title": "Banking",
+      "content": "Korea has various banks. Debit cards, credit cards, and internet banking are widely used. Foreigners can also open bank accounts, and identification is required.",
+      "details": "Korea has a highly developed banking system with major banks including KB Kookmin Bank, Shinhan Bank, Woori Bank, and Hana Bank. As a foreigner, you can open a bank account, but you'll need proper identification.\n\n**Required Documents**:\n- Passport or Alien Registration Card (ARC)\n- Proof of address (utility bill or rental contract)\n- Employment contract or student ID (for verification)\n\n**Banking Services**:\n- **Checking Accounts**: Most banks offer free checking accounts with debit cards\n- **Savings Accounts**: Various types with different interest rates\n- **Online Banking**: All major banks have comprehensive online and mobile banking apps\n- **International Transfers**: You can send money abroad, but fees apply\n\n**Cards**:\n- **Debit Cards (체크카드)**: Linked directly to your account, widely accepted\n- **Credit Cards**: Available for foreigners with proper documentation\n- **T-money Cards**: Can be linked to bank accounts for automatic recharge\n\n**ATM Usage**:\nATMs are available 24/7 at banks, convenience stores, and subway stations. Most ATMs have English language options. Be aware that some ATMs charge fees for use outside banking hours or at other banks' ATMs."
+    },
+    "shopping": {
+      "title": "Shopping",
+      "content": "Korea is a shopping paradise. There are various shopping areas like Myeongdong, Hongdae, and Itaewon, and online shopping malls are also highly developed. There are many duty-free shops popular with foreign tourists.",
+      "details": "Korea is truly a shopping paradise, offering everything from luxury brands to unique local products. Here are the main shopping destinations:\n\n**Popular Shopping Areas**:\n- **Myeongdong (명동)**: Tourist hotspot with cosmetics, fashion, and street food\n- **Hongdae (홍대)**: Youth culture hub with trendy fashion, cafes, and nightlife\n- **Gangnam (강남)**: Upscale shopping with luxury brands and department stores\n- **Itaewon (이태원)**: International district with diverse shops and restaurants\n- **Dongdaemun (동대문)**: 24-hour shopping complex for fashion and textiles\n- **Insadong (인사동)**: Traditional Korean crafts and souvenirs\n\n**Shopping Formats**:\n- **Department Stores**: Lotte, Shinsegae, Hyundai - high-end shopping\n- **Markets**: Traditional markets like Namdaemun and Gwangjang for local goods\n- **Duty-Free Shops**: Available at airports and major shopping areas (show passport)\n- **Online Shopping**: Gmarket, Coupang, 11st - Korea's leading e-commerce platforms\n\n**Shopping Tips**:\n- Many stores offer tax refunds for tourists (look for 'Tax Free' signs)\n- Bargaining is generally not common except in traditional markets\n- Credit cards are widely accepted, but cash is still preferred in some places\n- Online shopping often offers better prices and free delivery"
+    },
+    "food": {
+      "title": "Food",
+      "content": "Korean food is healthy and delicious. Kimchi, bulgogi, and bibimbap are famous, and there are various restaurants and eateries. Delivery services are also highly developed and convenient.",
+      "details": "Korean cuisine is renowned for its bold flavors, health benefits, and variety. Korean food emphasizes balance, with meals typically including rice, soup, main dishes, and multiple side dishes (반찬).\n\n**Must-Try Dishes**:\n- **Kimchi (김치)**: Fermented vegetables, Korea's national dish\n- **Bulgogi (불고기)**: Marinated grilled beef\n- **Bibimbap (비빔밥)**: Mixed rice with vegetables and meat\n- **Korean BBQ (고기구이)**: Grilled meat at your table\n- **Jjigae (찌개)**: Spicy stews like kimchi jjigae and doenjang jjigae\n- **Tteokbokki (떡볶이)**: Spicy rice cakes, popular street food\n- **Samgyeopsal (삼겹살)**: Grilled pork belly\n\n**Dining Culture**:\n- **Banchan**: Free side dishes served with every meal\n- **Sharing**: Many Korean meals are designed to be shared\n- **Drinking Culture**: Soju (소주) is Korea's national drink, often consumed with meals\n- **Street Food**: Abundant and affordable, especially in markets and university areas\n\n**Delivery Services**:\nKorea has exceptional food delivery services. Apps like Baemin (배달의민족), Yogiyo (요기요), and Coupang Eats offer delivery from thousands of restaurants. Delivery fees are low (usually 2,000-4,000 won), and delivery is fast (typically 20-40 minutes)."
+    },
+    "language": {
+      "title": "Language",
+      "content": "Korean language is essential for life in Korea. Improving your Korean language skills will make daily life much easier. There are various Korean language academies and online courses, and you can prepare for the TOPIK test.",
+      "details": "Learning Korean is crucial for fully experiencing life in Korea. While many Koreans speak some English, especially in Seoul, daily life becomes much easier with Korean language skills.\n\n**Language Learning Options**:\n- **Language Academies (어학원)**: Intensive programs like Yonsei, Sogang, and Ewha offer structured courses\n- **University Programs**: Many universities offer Korean language programs for international students\n- **Online Courses**: Platforms like Talk To Me In Korean, Coursera, and Duolingo\n- **Private Tutoring**: One-on-one lessons available through various platforms\n- **Language Exchange**: Meet Koreans who want to practice English (language exchange apps)\n\n**TOPIK Test**:\nThe Test of Proficiency in Korean (TOPIK) is the official Korean language proficiency test. It has 6 levels (1-6), with levels 1-2 being beginner and 5-6 being advanced. TOPIK scores are required for:\n- University admission\n- Employment visa applications\n- Permanent residency applications\n- Some scholarship programs\n\n**Learning Tips**:\n- Practice daily, even if just 15-30 minutes\n- Use language learning apps (Duolingo, Memrise, Anki)\n- Watch Korean dramas and variety shows with subtitles\n- Join language exchange meetups\n- Don't be afraid to make mistakes - Koreans appreciate the effort\n\n**Useful Phrases**:\n- 안녕하세요 (Annyeonghaseyo) - Hello\n- 감사합니다 (Gamsahamnida) - Thank you\n- 죄송합니다 (Joesonghamnida) - Sorry\n- 주세요 (Juseyo) - Please give me"
+    }
+  },
+  "WorkPage": {
+    "title": "Work in Korea",
+    "description": "Comprehensive guide to employment and work in Korea",
+    "viewMore": "View More",
+    "visa": {
+      "title": "Visa",
+      "content": "To work in Korea, you need an appropriate work visa. Various visa types include E-9, E-7, F-2, etc."
+    },
+    "jobSearch": {
+      "title": "Job Search",
+      "content": "The Korean job market is competitive. You can find opportunities through online job sites, internship programs, and networking."
+    },
+    "workCulture": {
+      "title": "Work Culture",
+      "content": "Korean workplace culture is hierarchical and vertical. Respect and cooperation are important, and company dinners (hoesik) are common."
+    },
+    "salary": {
+      "title": "Salary",
+      "content": "Average salary in Korea varies by industry and job type. IT, finance, and manufacturing offer high salaries, and annual salary systems are common. There is also a bonus system, so you can receive additional income at the end of the year."
+    },
+    "workingHours": {
+      "title": "Working Hours",
+      "content": "Typical working hours in Korea are 40 hours per week. However, many companies have overtime, and flexible work systems are gradually spreading. The 5-day work week is standard."
+    },
+    "taxes": {
+      "title": "Taxes",
+      "content": "Income tax is levied on employment income in Korea. You must pay income tax and local tax, and can receive refunds through year-end tax settlement."
+    },
+    "resume": {
+      "title": "Resume",
+      "content": "Korean resumes have a special format. A photo is required, and you must detail your education, career, and qualifications. A cover letter is also an important element."
+    },
+    "interview": {
+      "title": "Interview",
+      "content": "Korean interviews usually proceed in several stages. There are first document screening, second interview, final interview, etc. Wearing formal attire is common, and maintaining courtesy is important."
+    }
+  },
+  "StudyPage": {
+    "title": "Study in Korea",
+    "description": "Comprehensive guide to education and studying in Korea",
+    "viewMore": "View More",
+    "universities": {
+      "title": "Universities",
+      "content": "Korea has many excellent universities. Seoul National University, Yonsei University, and Korea University are well-known."
+    },
+    "scholarships": {
+      "title": "Scholarships",
+      "content": "The Korean government and universities offer various scholarship programs. There are merit-based scholarships and scholarships for international students."
+    },
+    "admission": {
+      "title": "Admission",
+      "content": "Korean university admission is highly competitive. Korean language proficiency, academic performance, and recommendation letters are important."
+    },
+    "languageRequirements": {
+      "title": "Language Requirements",
+      "content": "Most Korean universities require Korean language proficiency. TOPIK test scores are required, and some universities also offer programs taught in English. You can prepare at Korean language academies."
+    },
+    "costs": {
+      "title": "Costs",
+      "content": "Korean university tuition varies by university. National universities are relatively cheap, while private universities are more expensive. Living expenses, accommodation costs, and textbook costs must be considered."
+    },
+    "studentLife": {
+      "title": "Student Life",
+      "content": "Korean university life is vibrant with various activities. You can enjoy clubs, festivals, and exchange student programs."
+    },
+    "partTimeWork": {
+      "title": "Part-time Work",
+      "content": "International students can also work part-time within the scope permitted by their visa. You can work at cafes, convenience stores, restaurants, etc., and the minimum hourly wage is guaranteed."
+    },
+    "afterGraduation": {
+      "title": "After Graduation",
+      "content": "After graduating from a Korean university, you can convert to an employment visa or return to your home country. If you want to work in Korea, Korean language skills and professional knowledge are important."
+    }
+  },
+  "TravelPage": {
+    "title": "Travel in Korea",
+    "description": "Complete guide to traveling and tourism in Korea",
+    "viewMore": "View More",
+    "popularDestinations": {
+      "title": "Popular Destinations",
+      "content": "Korea offers many amazing destinations. Seoul, Busan, Jeju Island, and Gyeongju are must-visit places for tourists."
+    },
+    "touristTransportation": {
+      "title": "Tourist Transportation",
+      "content": "Getting around Korea is easy with excellent public transportation. Subways, buses, and trains connect all major tourist destinations."
+    },
+    "hotelsAccommodation": {
+      "title": "Hotels & Accommodation",
+      "content": "Korea offers various accommodation options for tourists, from luxury hotels to traditional hanok stays and budget-friendly guesthouses."
+    },
+    "foodRestaurants": {
+      "title": "Food & Restaurants",
+      "content": "Korean cuisine is a highlight of any trip. From street food to fine dining, there are countless restaurants and food experiences to discover."
+    },
+    "cultureTraditions": {
+      "title": "Culture & Traditions",
+      "content": "Experience Korea's rich culture through traditional performances, temples, palaces, and cultural festivals throughout the year."
+    },
+    "tripPlanning": {
+      "title": "Trip Planning",
+      "content": "Plan your perfect trip to Korea with tips on best times to visit, itinerary suggestions, and essential travel information."
+    },
+    "seasonsWeather": {
+      "title": "Seasons & Weather",
+      "content": "Korea has four distinct seasons. Spring and autumn are ideal for travel, with cherry blossoms in spring and colorful foliage in autumn."
+    },
+    "travelBudget": {
+      "title": "Travel Budget",
+      "content": "Korea can be traveled on various budgets. Learn about costs for accommodation, food, transportation, and activities to plan your expenses."
+    },
+    "touristSafety": {
+      "title": "Tourist Safety",
+      "content": "Korea is one of the safest countries in the world. Learn about safety tips, emergency contacts, and how to stay safe during your travels."
+    },
+    "attractions": {
+      "title": "Attractions",
+      "content": "Discover Korea's top attractions including palaces, temples, museums, theme parks, and natural wonders that showcase the country's beauty."
+    }
+  },
+  "HalalPage": {
+    "title": "Halal in Korea",
+    "description": "Complete guide for Muslims living in or visiting Korea",
+    "viewMore": "View More",
+    "halalRestaurants": {
+      "title": "Halal Restaurants",
+      "content": "Find halal-certified restaurants and Muslim-friendly dining options throughout Korea. Many restaurants in Itaewon, Seoul, and other major cities offer halal food."
+    },
+    "mosques": {
+      "title": "Mosques",
+      "content": "Discover mosques and Islamic prayer facilities in Korea. The Seoul Central Mosque in Itaewon is the largest, with several other mosques in major cities."
+    },
+    "halalFood": {
+      "title": "Halal Food",
+      "content": "Learn about halal food options, halal certification, and where to find halal ingredients and products in Korean supermarkets and stores."
+    },
+    "islamicCommunity": {
+      "title": "Islamic Community",
+      "content": "Connect with the Muslim community in Korea. Find information about Islamic centers, community events, and support networks for Muslims."
+    },
+    "prayerFacilities": {
+      "title": "Prayer Facilities",
+      "content": "Locate prayer rooms and facilities in airports, shopping malls, universities, and public places throughout Korea for daily prayers."
+    },
+    "halalShopping": {
+      "title": "Halal Shopping",
+      "content": "Find halal-certified products, Islamic clothing, prayer items, and other Muslim necessities in Korea's shopping districts and online stores."
+    },
+    "islamicEvents": {
+      "title": "Islamic Events",
+      "content": "Stay informed about Islamic holidays, community gatherings, religious events, and cultural celebrations organized by the Muslim community in Korea."
+    },
+    "muslimFriendlyServices": {
+      "title": "Muslim-Friendly Services",
+      "content": "Discover Muslim-friendly hotels, travel services, healthcare facilities, and other services that accommodate Islamic requirements and preferences."
+    }
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: 2024",
+    "section1": {
+      "title": "Information Collection",
+      "content": "We collect only the minimum information necessary to provide our services. We may collect your email address and name through Google login."
+    },
+    "section2": {
+      "title": "Information Usage",
+      "content": "Collected information is used solely for service provision, improvement, and customer support purposes."
+    },
+    "section3": {
+      "title": "Information Protection",
+      "content": "We implement appropriate technical and administrative security measures to protect your personal information."
+    },
+    "section4": {
+      "title": "Cookies",
+      "content": "We use essential cookies for service functionality. You can manage cookies through your browser settings."
+    },
+    "section5": {
+      "title": "Contact",
+      "content": "If you have any questions about our privacy practices, please contact us."
+    }
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: 2024",
+    "section1": {
+      "title": "Service Usage",
+      "content": "This service provides information about life, work, and study in Korea. By using the service, you agree to these terms."
+    },
+    "section2": {
+      "title": "User Responsibility",
+      "content": "Users are responsible for using the service appropriately and legally."
+    },
+    "section3": {
+      "title": "Intellectual Property",
+      "content": "All content on this website is protected by copyright. Unauthorized use is prohibited."
+    },
+    "section4": {
+      "title": "Service Changes",
+      "content": "We may modify or discontinue the service without prior notice."
+    },
+    "section5": {
+      "title": "Disclaimer",
+      "content": "We do not guarantee the accuracy or completeness of information provided through the service."
+    }
+  },
+  "SignInPage": {
+    "title": "Sign In",
+    "description": "Sign in with your Google account to use the service",
+    "signInWithGoogle": "Sign In with Google",
+    "signingIn": "Signing in...",
+    "terms": "By signing in, you agree to our Terms of Service and Privacy Policy."
+  },
+  "LibraryPage": {
+    "title": "Library",
+    "description": "Collection of PDF books for Korean language learning",
+    "loading": "Loading...",
+    "noBooks": "No books available yet",
+    "download": "Download",
+    "view": "View",
+    "categories": {
+      "all": "All",
+      "vocabulary": "Vocabulary",
+      "grammar": "Grammar",
+      "topik": "TOPIK",
+      "writing": "Writing"
+    }
+  }
+}
+
