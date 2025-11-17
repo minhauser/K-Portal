@@ -3,12 +3,12 @@
 import { useTranslations } from 'next-intl';
 import { signIn } from 'next-auth/react';
 import { useSearchParams, useRouter } from 'next/navigation';
-import { useEffect, useState } from 'react';
+import { useEffect, useState, Suspense } from 'react';
 import { Loader2 } from 'lucide-react';
 
 export const dynamic = 'force-dynamic';
 
-export default function SignInPage() {
+function SignInContent() {
   const t = useTranslations('SignInPage');
   const searchParams = useSearchParams();
   const router = useRouter();
@@ -75,6 +75,24 @@ export default function SignInPage() {
         </div>
       </div>
     </div>
+  );
+}
+
+export default function SignInPage() {
+  return (
+    <Suspense fallback={
+      <div className="container mx-auto px-4 py-16">
+        <div className="max-w-md mx-auto">
+          <div className="border rounded-lg p-8 bg-background">
+            <div className="flex items-center justify-center">
+              <Loader2 className="w-5 h-5 animate-spin" />
+            </div>
+          </div>
+        </div>
+      </div>
+    }>
+      <SignInContent />
+    </Suspense>
   );
 }
 

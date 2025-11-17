@@ -101,35 +101,43 @@
     "viewMore": "Batafsil ko'rish",
     "visa": {
       "title": "Viza",
-      "content": "Koreyada ishlash uchun tegishli ish vizasi kerak. Turli xil viza turlari, shu jumladan E-9, E-7, F-2 va boshqalar mavjud."
+      "content": "Koreyada ishlash uchun tegishli ish vizasi kerak. Turli xil viza turlari, shu jumladan E-9, E-7, F-2 va boshqalar mavjud.",
+      "details": "Koreyada ishlash uchun tegishli ish vizasi kerak. Turli xil viza turlari, shu jumladan E-9, E-7, F-2 va boshqalar mavjud."
     },
     "jobSearch": {
       "title": "Ish qidirish",
-      "content": "Koreys ish bozorida raqobat yuqori. Onlayn ish saytlari, stajirovka dasturlari va tarmoq orqali imkoniyatlar topishingiz mumkin."
+      "content": "Koreys ish bozorida raqobat yuqori. Onlayn ish saytlari, stajirovka dasturlari va tarmoq orqali imkoniyatlar topishingiz mumkin.",
+      "details": "Koreys ish bozorida raqobat yuqori. Onlayn ish saytlari, stajirovka dasturlari va tarmoq orqali imkoniyatlar topishingiz mumkin."
     },
     "workCulture": {
       "title": "Ish madaniyati",
-      "content": "Koreys ish madaniyati ierarxik va vertikal. Hurmat va hamkorlik muhim, kompaniya kechki ovqatlari (hoesik) keng tarqalgan."
+      "content": "Koreys ish madaniyati ierarxik va vertikal. Hurmat va hamkorlik muhim, kompaniya kechki ovqatlari (hoesik) keng tarqalgan.",
+      "details": "Koreys ish madaniyati ierarxik va vertikal. Hurmat va hamkorlik muhim, kompaniya kechki ovqatlari (hoesik) keng tarqalgan."
     },
     "salary": {
       "title": "Maosh",
-      "content": "Koreyadagi o'rtacha maosh sanoat va ish turiga qarab farq qiladi. IT, moliya va ishlab chiqarish sanoati yuqori maosh taklif qiladi, yillik maosh tizimlari keng tarqalgan. Bonus tizimi ham mavjud, shuning uchun yil oxirida qo'shimcha daromad olishingiz mumkin."
+      "content": "Koreyadagi o'rtacha maosh sanoat va ish turiga qarab farq qiladi. IT, moliya va ishlab chiqarish sanoati yuqori maosh taklif qiladi, yillik maosh tizimlari keng tarqalgan. Bonus tizimi ham mavjud, shuning uchun yil oxirida qo'shimcha daromad olishingiz mumkin.",
+      "details": "Koreyadagi o'rtacha maosh sanoat va ish turiga qarab farq qiladi. IT, moliya va ishlab chiqarish sanoati yuqori maosh taklif qiladi, yillik maosh tizimlari keng tarqalgan. Bonus tizimi ham mavjud, shuning uchun yil oxirida qo'shimcha daromad olishingiz mumkin."
     },
     "workingHours": {
       "title": "Ish vaqti",
-      "content": "Koreyadagi odatiy ish vaqti haftasiga 40 soat. Biroq, ko'plab kompaniyalarda qo'shimcha ish vaqti mavjud va moslashuvchan ish tizimlari asta-sekin tarqalmoqda. 5 kunlik ish haftasi standartdir."
+      "content": "Koreyadagi odatiy ish vaqti haftasiga 40 soat. Biroq, ko'plab kompaniyalarda qo'shimcha ish vaqti mavjud va moslashuvchan ish tizimlari asta-sekin tarqalmoqda. 5 kunlik ish haftasi standartdir.",
+      "details": "Koreyadagi odatiy ish vaqti haftasiga 40 soat. Biroq, ko'plab kompaniyalarda qo'shimcha ish vaqti mavjud va moslashuvchan ish tizimlari asta-sekin tarqalmoqda. 5 kunlik ish haftasi standartdir."
     },
     "taxes": {
       "title": "Soliqlar",
-      "content": "Koreyada ishdan olingan daromaddan daromad solig'i undiriladi. Siz daromad solig'i va mahalliy soliq to'lashingiz kerak va yil oxiridagi soliq hisob-kitobi orqali qaytarib olishingiz mumkin."
+      "content": "Koreyada ishdan olingan daromaddan daromad solig'i undiriladi. Siz daromad solig'i va mahalliy soliq to'lashingiz kerak va yil oxiridagi soliq hisob-kitobi orqali qaytarib olishingiz mumkin.",
+      "details": "Koreyada ishdan olingan daromaddan daromad solig'i undiriladi. Siz daromad solig'i va mahalliy soliq to'lashingiz kerak va yil oxiridagi soliq hisob-kitobi orqali qaytarib olishingiz mumkin."
     },
     "resume": {
       "title": "Rezyume",
-      "content": "Koreys rezyumelari maxsus formatga ega. Rasm talab qilinadi va ta'lim, martaba va malakalaringizni batafsil ko'rsatishingiz kerak. Xat ham muhim elementdir."
+      "content": "Koreys rezyumelari maxsus formatga ega. Rasm talab qilinadi va ta'lim, martaba va malakalaringizni batafsil ko'rsatishingiz kerak. Xat ham muhim elementdir.",
+      "details": "Koreys rezyumelari maxsus formatga ega. Rasm talab qilinadi va ta'lim, martaba va malakalaringizni batafsil ko'rsatishingiz kerak. Xat ham muhim elementdir."
     },
     "interview": {
       "title": "Suhbat",
-      "content": "Koreys suhbati odatda bir necha bosqichda davom etadi. Birinchi hujjatlar tanlovi, ikkinchi suhbat, yakuniy suhbat va boshqalar mavjud. Rasmiy kiyim kiyish odatiy holdir va odobni saqlash muhimdir."
+      "content": "Koreys suhbati odatda bir necha bosqichda davom etadi. Birinchi hujjatlar tanlovi, ikkinchi suhbat, yakuniy suhbat va boshqalar mavjud. Rasmiy kiyim kiyish odatiy holdir va odobni saqlash muhimdir.",
+      "details": "Koreys suhbati odatda bir necha bosqichda davom etadi. Birinchi hujjatlar tanlovi, ikkinchi suhbat, yakuniy suhbat va boshqalar mavjud. Rasmiy kiyim kiyish odatiy holdir va odobni saqlash muhimdir."
     }
   },
   "StudyPage": {
@@ -138,19 +146,23 @@
     "viewMore": "Batafsil ko'rish",
     "universities": {
       "title": "Universitetlar",
-      "content": "Koreyada ko'plab ajoyib universitetlar mavjud. Seul Milliy Universiteti, Yonsei Universiteti va Koreya Universiteti taniqli."
+      "content": "Koreyada ko'plab ajoyib universitetlar mavjud. Seul Milliy Universiteti, Yonsei Universiteti va Koreya Universiteti taniqli.",
+      "details": "Koreyada ko'plab ajoyib universitetlar mavjud. Seul Milliy Universiteti, Yonsei Universiteti va Koreya Universiteti taniqli."
     },
     "scholarships": {
       "title": "Stipendiyalar",
-      "content": "Koreys hukumati va universitetlar turli xil stipendiya dasturlarini taklif qiladi. Muvaffaqiyatga asoslangan stipendiyalar va xalqaro talabalar uchun stipendiyalar mavjud."
+      "content": "Koreys hukumati va universitetlar turli xil stipendiya dasturlarini taklif qiladi. Muvaffaqiyatga asoslangan stipendiyalar va xalqaro talabalar uchun stipendiyalar mavjud.",
+      "details": "Koreys hukumati va universitetlar turli xil stipendiya dasturlarini taklif qiladi. Muvaffaqiyatga asoslangan stipendiyalar va xalqaro talabalar uchun stipendiyalar mavjud."
     },
     "admission": {
       "title": "Qabul",
-      "content": "Koreys universitetlariga qabul juda raqobatbardosh. Koreys tili bilimi, akademik natijalar va tavsiya xatlari muhimdir."
+      "content": "Koreys universitetlariga qabul juda raqobatbardosh. Koreys tili bilimi, akademik natijalar va tavsiya xatlari muhimdir.",
+      "details": "Koreys universitetlariga qabul juda raqobatbardosh. Koreys tili bilimi, akademik natijalar va tavsiya xatlari muhimdir."
     },
     "languageRequirements": {
       "title": "Til talablari",
-      "content": "Ko'pchilik koreys universitetlari koreys tilini bilishni talab qiladi. TOPIK test ballari talab qilinadi va ba'zi universitetlar ingliz tilida o'qitiladigan dasturlarni ham taklif qiladi. Koreys tili akademiyalarida tayyorlanish mumkin."
+      "content": "Ko'pchilik koreys universitetlari koreys tilini bilishni talab qiladi. TOPIK test ballari talab qilinadi va ba'zi universitetlar ingliz tilida o'qitiladigan dasturlarni ham taklif qiladi. Koreys tili akademiyalarida tayyorlanish mumkin.",
+      "details": "Ko'pchilik koreys universitetlari koreys tilini bilishni talab qiladi. TOPIK test ballari talab qilinadi va ba'zi universitetlar ingliz tilida o'qitiladigan dasturlarni ham taklif qiladi. Koreys tili akademiyalarida tayyorlanish mumkin."
     },
     "costs": {
       "title": "Xarajatlar",
@@ -159,15 +171,18 @@
     },
     "studentLife": {
       "title": "Talaba hayoti",
-      "content": "Koreys universitet hayoti turli xil faoliyatlar bilan jonli. Siz klublar, festivallar va talabalar almashish dasturlaridan bahramand bo'lishingiz mumkin."
+      "content": "Koreys universitet hayoti turli xil faoliyatlar bilan jonli. Siz klublar, festivallar va talabalar almashish dasturlaridan bahramand bo'lishingiz mumkin.",
+      "details": "Koreys universitet hayoti turli xil faoliyatlar bilan jonli. Siz klublar, festivallar va talabalar almashish dasturlaridan bahramand bo'lishingiz mumkin."
     },
     "partTimeWork": {
       "title": "Qo'shimcha ish",
-      "content": "Xalqaro talabalar ham vizasi ruxsat bergan doirada qo'shimcha ish bilan shug'ullanishlari mumkin. Siz kafelarda, do'konlarda, restoranlarda va boshqalarda ishlashingiz mumkin va minimal soatlik ish haqi kafolatlanadi."
+      "content": "Xalqaro talabalar ham vizasi ruxsat bergan doirada qo'shimcha ish bilan shug'ullanishlari mumkin. Siz kafelarda, do'konlarda, restoranlarda va boshqalarda ishlashingiz mumkin va minimal soatlik ish haqi kafolatlanadi.",
+      "details": "Xalqaro talabalar ham vizasi ruxsat bergan doirada qo'shimcha ish bilan shug'ullanishlari mumkin. Siz kafelarda, do'konlarda, restoranlarda va boshqalarda ishlashingiz mumkin va minimal soatlik ish haqi kafolatlanadi."
     },
     "afterGraduation": {
       "title": "Graduatsiyadan keyin",
-      "content": "Koreys universitetini tugatgandan so'ng, siz ish vizasiga o'tishingiz yoki vataningizga qaytishingiz mumkin. Agar Koreyada ishlashni xohlasangiz, koreys tili bilimi va professional bilim muhimdir."
+      "content": "Koreys universitetini tugatgandan so'ng, siz ish vizasiga o'tishingiz yoki vataningizga qaytishingiz mumkin. Agar Koreyada ishlashni xohlasangiz, koreys tili bilimi va professional bilim muhimdir.",
+      "details": "Koreys universitetini tugatgandan so'ng, siz ish vizasiga o'tishingiz yoki vataningizga qaytishingiz mumkin. Agar Koreyada ishlashni xohlasangiz, koreys tili bilimi va professional bilim muhimdir."
     }
   },
   "TravelPage": {
@@ -176,43 +191,53 @@
     "viewMore": "Batafsil ko'rish",
     "popularDestinations": {
       "title": "Mashhur yo'nalishlar",
-      "content": "Koreya ko'plab ajoyib yo'nalishlarni taklif qiladi. Seul, Busan, Jeju oroli va Gyeongju sayyohlar uchun tashrif buyurish kerak bo'lgan joylardir."
+      "content": "Koreya ko'plab ajoyib yo'nalishlarni taklif qiladi. Seul, Busan, Jeju oroli va Gyeongju sayyohlar uchun tashrif buyurish kerak bo'lgan joylardir.",
+      "details": "Koreya ko'plab ajoyib yo'nalishlarni taklif qiladi. Seul, Busan, Jeju oroli va Gyeongju sayyohlar uchun tashrif buyurish kerak bo'lgan joylardir."
     },
     "touristTransportation": {
       "title": "Turist transporti",
-      "content": "Ajoyib jamoat transporti tizimi bilan Koreyada harakatlanish oson. Metro, avtobuslar va poezdlar barcha asosiy turistik yo'nalishlarni bog'laydi."
+      "content": "Ajoyib jamoat transporti tizimi bilan Koreyada harakatlanish oson. Metro, avtobuslar va poezdlar barcha asosiy turistik yo'nalishlarni bog'laydi.",
+      "details": "Ajoyib jamoat transporti tizimi bilan Koreyada harakatlanish oson. Metro, avtobuslar va poezdlar barcha asosiy turistik yo'nalishlarni bog'laydi."
     },
     "hotelsAccommodation": {
       "title": "Mehmonxonalar va yashash joylari",
-      "content": "Koreya turistlar uchun turli xil yashash joylarini taklif qiladi, hashamatli mehmonxonalardan an'anaviy hanok yashash joylarigacha va byudjetli mehmonxonalargacha."
+      "content": "Koreya turistlar uchun turli xil yashash joylarini taklif qiladi, hashamatli mehmonxonalardan an'anaviy hanok yashash joylarigacha va byudjetli mehmonxonalargacha.",
+      "details": "Koreya turistlar uchun turli xil yashash joylarini taklif qiladi, hashamatli mehmonxonalardan an'anaviy hanok yashash joylarigacha va byudjetli mehmonxonalargacha."
     },
     "foodRestaurants": {
       "title": "Ovqat va restoranlar",
-      "content": "Koreys oshxonasi har qanday sayohatning diqqat markazidir. Ko'cha ovqatlaridan tortib hashamatli restoranlargacha, kashf etish uchun cheksiz restoranlar va ovqat tajribalari mavjud."
+      "content": "Koreys oshxonasi har qanday sayohatning diqqat markazidir. Ko'cha ovqatlaridan tortib hashamatli restoranlargacha, kashf etish uchun cheksiz restoranlar va ovqat tajribalari mavjud.",
+      "details": "Koreys oshxonasi har qanday sayohatning diqqat markazidir. Ko'cha ovqatlaridan tortib hashamatli restoranlargacha, kashf etish uchun cheksiz restoranlar va ovqat tajribalari mavjud."
     },
     "cultureTraditions": {
       "title": "Madaniyat va an'analar",
-      "content": "An'anaviy spektakllar, ibodatxonalar, saroylar va yil davomida bo'ladigan madaniy festivallar orqali Koreyaning boy madaniyatini bosing."
+      "content": "An'anaviy spektakllar, ibodatxonalar, saroylar va yil davomida bo'ladigan madaniy festivallar orqali Koreyaning boy madaniyatini bosing.",
+      "details": "An'anaviy spektakllar, ibodatxonalar, saroylar va yil davomida bo'ladigan madaniy festivallar orqali Koreyaning boy madaniyatini bosing."
     },
     "tripPlanning": {
       "title": "Sayohat rejalashtirish",
-      "content": "Eng yaxshi tashrif buyurish vaqti, marshrut takliflari va muhim sayohat ma'lumotlari bo'yicha maslahatlar bilan Koreyaga mukammal sayohatni rejalashtiring."
+      "content": "Eng yaxshi tashrif buyurish vaqti, marshrut takliflari va muhim sayohat ma'lumotlari bo'yicha maslahatlar bilan Koreyaga mukammal sayohatni rejalashtiring.",
+      "details": "Eng yaxshi tashrif buyurish vaqti, marshrut takliflari va muhim sayohat ma'lumotlari bo'yicha maslahatlar bilan Koreyaga mukammal sayohatni rejalashtiring."
     },
     "seasonsWeather": {
       "title": "Fasllar va ob-havo",
-      "content": "Koreyada to'rt aniq fasl mavjud. Bahor va kuz sayohat uchun ideal, bahorda gilos gullari va kuzda rang-barang barglar bilan."
+      "content": "Koreyada to'rt aniq fasl mavjud. Bahor va kuz sayohat uchun ideal, bahorda gilos gullari va kuzda rang-barang barglar bilan.",
+      "details": "Koreyada to'rt aniq fasl mavjud. Bahor va kuz sayohat uchun ideal, bahorda gilos gullari va kuzda rang-barang barglar bilan."
     },
     "travelBudget": {
       "title": "Sayohat byudjeti",
-      "content": "Koreyani turli byudjetlar bilan sayohat qilish mumkin. Yashash, ovqat, transport va faoliyat xarajatlari haqida bilib oling va xarajatlaringizni rejalashtiring."
+      "content": "Koreyani turli byudjetlar bilan sayohat qilish mumkin. Yashash, ovqat, transport va faoliyat xarajatlari haqida bilib oling va xarajatlaringizni rejalashtiring.",
+      "details": "Koreyani turli byudjetlar bilan sayohat qilish mumkin. Yashash, ovqat, transport va faoliyat xarajatlari haqida bilib oling va xarajatlaringizni rejalashtiring."
     },
     "touristSafety": {
       "title": "Turistlar xavfsizligi",
-      "content": "Koreya dunyodagi eng xavfsiz mamlakatlardan biridir. Xavfsizlik maslahatlari, favqulodda vaziyatlar uchun aloqa raqamlari va sayohat paytida xavfsiz bo'lish usullari haqida bilib oling."
+      "content": "Koreya dunyodagi eng xavfsiz mamlakatlardan biridir. Xavfsizlik maslahatlari, favqulodda vaziyatlar uchun aloqa raqamlari va sayohat paytida xavfsiz bo'lish usullari haqida bilib oling.",
+      "details": "Koreya dunyodagi eng xavfsiz mamlakatlardan biridir. Xavfsizlik maslahatlari, favqulodda vaziyatlar uchun aloqa raqamlari va sayohat paytida xavfsiz bo'lish usullari haqida bilib oling."
     },
     "attractions": {
       "title": "Diyorlar",
-      "content": "Saroylar, ibodatxonalar, muzeylar, tematik parklar va mamlakatning go'zalligini namoyish etuvchi tabiiy mo'jizalar, shu jumladan Koreyaning eng yaxshi diyorlarini kashf eting."
+      "content": "Saroylar, ibodatxonalar, muzeylar, tematik parklar va mamlakatning go'zalligini namoyish etuvchi tabiiy mo'jizalar, shu jumladan Koreyaning eng yaxshi diyorlarini kashf eting.",
+      "details": "Saroylar, ibodatxonalar, muzeylar, tematik parklar va mamlakatning go'zalligini namoyish etuvchi tabiiy mo'jizalar, shu jumladan Koreyaning eng yaxshi diyorlarini kashf eting."
     }
   },
   "HalalPage": {
@@ -221,31 +246,38 @@
     "viewMore": "Batafsil ko'rish",
     "halalRestaurants": {
       "title": "Halol restoranlar",
-      "content": "Koreya bo'ylab halol sertifikatlangan restoranlar va musulmonlarga mos ovqatlanish joylarini toping. Itaewon, Seul va boshqa yirik shaharlardagi ko'plab restoranlar halol ovqat taklif qiladi."
+      "content": "Koreya bo'ylab halol sertifikatlangan restoranlar va musulmonlarga mos ovqatlanish joylarini toping. Itaewon, Seul va boshqa yirik shaharlardagi ko'plab restoranlar halol ovqat taklif qiladi.",
+      "details": "Koreya bo'ylab halol sertifikatlangan restoranlar va musulmonlarga mos ovqatlanish joylarini toping. Itaewon, Seul va boshqa yirik shaharlardagi ko'plab restoranlar halol ovqat taklif qiladi."
     },
     "mosques": {
       "title": "Masjidlar",
-      "content": "Koreyadagi masjidlar va islomiy namoz o'qish joylarini kashf eting. Itaewondagi Seul markaziy masjidi eng kattasi bo'lib, yirik shaharlarda bir nechta boshqa masjidlar mavjud."
+      "content": "Koreyadagi masjidlar va islomiy namoz o'qish joylarini kashf eting. Itaewondagi Seul markaziy masjidi eng kattasi bo'lib, yirik shaharlarda bir nechta boshqa masjidlar mavjud.",
+      "details": "Koreyadagi masjidlar va islomiy namoz o'qish joylarini kashf eting. Itaewondagi Seul markaziy masjidi eng kattasi bo'lib, yirik shaharlarda bir nechta boshqa masjidlar mavjud."
     },
     "halalFood": {
       "title": "Halol ovqat",
-      "content": "Halol ovqat variantlari, halol sertifikatlash va Koreya supermarketlari va do'konlarida halol ingredientlar va mahsulotlarni qayerda topish mumkinligi haqida bilib oling."
+      "content": "Halol ovqat variantlari, halol sertifikatlash va Koreya supermarketlari va do'konlarida halol ingredientlar va mahsulotlarni qayerda topish mumkinligi haqida bilib oling.",
+      "details": "Halol ovqat variantlari, halol sertifikatlash va Koreya supermarketlari va do'konlarida halol ingredientlar va mahsulotlarni qayerda topish mumkinligi haqida bilib oling."
     },
     "islamicCommunity": {
       "title": "Islomiy jamoatchilik",
-      "content": "Koreyadagi musulmon jamoasi bilan bog'laning. Islomiy markazlar, jamoatchilik tadbirlari va musulmonlar uchun yordam tarmoqlari haqida ma'lumot toping."
+      "content": "Koreyadagi musulmon jamoasi bilan bog'laning. Islomiy markazlar, jamoatchilik tadbirlari va musulmonlar uchun yordam tarmoqlari haqida ma'lumot toping.",
+      "details": "Koreyadagi musulmon jamoasi bilan bog'laning. Islomiy markazlar, jamoatchilik tadbirlari va musulmonlar uchun yordam tarmoqlari haqida ma'lumot toping."
     },
     "prayerFacilities": {
       "title": "Namoz o'qish joylari",
-      "content": "Koreya bo'ylab aeroportlar, savdo markazlari, universitetlar va jamoat joylarida kunlik namozlar uchun namozxonalar va inshootlarni toping."
+      "content": "Koreya bo'ylab aeroportlar, savdo markazlari, universitetlar va jamoat joylarida kunlik namozlar uchun namozxonalar va inshootlarni toping.",
+      "details": "Koreya bo'ylab aeroportlar, savdo markazlari, universitetlar va jamoat joylarida kunlik namozlar uchun namozxonalar va inshootlarni toping."
     },
     "halalShopping": {
       "title": "Halol xarid qilish",
-      "content": "Koreyaning savdo tumanlari va onlayn do'konlarida halol sertifikatlangan mahsulotlar, islomiy kiyimlar, namoz buyumlari va boshqa musulmon ehtiyojlarini toping."
+      "content": "Koreyaning savdo tumanlari va onlayn do'konlarida halol sertifikatlangan mahsulotlar, islomiy kiyimlar, namoz buyumlari va boshqa musulmon ehtiyojlarini toping.",
+      "details": "Koreyaning savdo tumanlari va onlayn do'konlarida halol sertifikatlangan mahsulotlar, islomiy kiyimlar, namoz buyumlari va boshqa musulmon ehtiyojlarini toping."
     },
     "islamicEvents": {
       "title": "Islomiy tadbirlar",
-      "content": "Koreyadagi musulmon jamoasi tomonidan tashkil etilgan islomiy bayramlar, jamoatchilik yig'ilishlari, diniy tadbirlar va madaniy bayramlar haqida xabardor bo'ling."
+      "content": "Koreyadagi musulmon jamoasi tomonidan tashkil etilgan islomiy bayramlar, jamoatchilik yig'ilishlari, diniy tadbirlar va madaniy bayramlar haqida xabardor bo'ling.",
+      "details": "Koreyadagi musulmon jamoasi tomonidan tashkil etilgan islomiy bayramlar, jamoatchilik yig'ilishlari, diniy tadbirlar va madaniy bayramlar haqida xabardor bo'ling."
     },
     "muslimFriendlyServices": {
       "title": "Musulmonlarga mos xizmatlar",

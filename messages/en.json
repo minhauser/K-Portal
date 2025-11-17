@@ -107,35 +107,43 @@
     "viewMore": "View More",
     "visa": {
       "title": "Visa",
-      "content": "To work in Korea, you need an appropriate work visa. Various visa types include E-9, E-7, F-2, etc."
+      "content": "To work in Korea, you need an appropriate work visa. Various visa types include E-9, E-7, F-2, etc.",
+      "details": "To work in Korea, you need an appropriate work visa. Various visa types include E-9, E-7, F-2, etc."
     },
     "jobSearch": {
       "title": "Job Search",
-      "content": "The Korean job market is competitive. You can find opportunities through online job sites, internship programs, and networking."
+      "content": "The Korean job market is competitive. You can find opportunities through online job sites, internship programs, and networking.",
+      "details": "The Korean job market is competitive. You can find opportunities through online job sites, internship programs, and networking."
     },
     "workCulture": {
       "title": "Work Culture",
-      "content": "Korean workplace culture is hierarchical and vertical. Respect and cooperation are important, and company dinners (hoesik) are common."
+      "content": "Korean workplace culture is hierarchical and vertical. Respect and cooperation are important, and company dinners (hoesik) are common.",
+      "details": "Korean workplace culture is hierarchical and vertical. Respect and cooperation are important, and company dinners (hoesik) are common."
     },
     "salary": {
       "title": "Salary",
-      "content": "Average salary in Korea varies by industry and job type. IT, finance, and manufacturing offer high salaries, and annual salary systems are common. There is also a bonus system, so you can receive additional income at the end of the year."
+      "content": "Average salary in Korea varies by industry and job type. IT, finance, and manufacturing offer high salaries, and annual salary systems are common. There is also a bonus system, so you can receive additional income at the end of the year.",
+      "details": "Average salary in Korea varies by industry and job type. IT, finance, and manufacturing offer high salaries, and annual salary systems are common. There is also a bonus system, so you can receive additional income at the end of the year."
     },
     "workingHours": {
       "title": "Working Hours",
-      "content": "Typical working hours in Korea are 40 hours per week. However, many companies have overtime, and flexible work systems are gradually spreading. The 5-day work week is standard."
+      "content": "Typical working hours in Korea are 40 hours per week. However, many companies have overtime, and flexible work systems are gradually spreading. The 5-day work week is standard.",
+      "details": "Typical working hours in Korea are 40 hours per week. However, many companies have overtime, and flexible work systems are gradually spreading. The 5-day work week is standard."
     },
     "taxes": {
       "title": "Taxes",
-      "content": "Income tax is levied on employment income in Korea. You must pay income tax and local tax, and can receive refunds through year-end tax settlement."
+      "content": "Income tax is levied on employment income in Korea. You must pay income tax and local tax, and can receive refunds through year-end tax settlement.",
+      "details": "Income tax is levied on employment income in Korea. You must pay income tax and local tax, and can receive refunds through year-end tax settlement."
     },
     "resume": {
       "title": "Resume",
-      "content": "Korean resumes have a special format. A photo is required, and you must detail your education, career, and qualifications. A cover letter is also an important element."
+      "content": "Korean resumes have a special format. A photo is required, and you must detail your education, career, and qualifications. A cover letter is also an important element.",
+      "details": "Korean resumes have a special format. A photo is required, and you must detail your education, career, and qualifications. A cover letter is also an important element."
     },
     "interview": {
       "title": "Interview",
-      "content": "Korean interviews usually proceed in several stages. There are first document screening, second interview, final interview, etc. Wearing formal attire is common, and maintaining courtesy is important."
+      "content": "Korean interviews usually proceed in several stages. There are first document screening, second interview, final interview, etc. Wearing formal attire is common, and maintaining courtesy is important.",
+      "details": "Korean interviews usually proceed in several stages. There are first document screening, second interview, final interview, etc. Wearing formal attire is common, and maintaining courtesy is important."
     }
   },
   "StudyPage": {
@@ -144,35 +152,43 @@
     "viewMore": "View More",
     "universities": {
       "title": "Universities",
-      "content": "Korea has many excellent universities. Seoul National University, Yonsei University, and Korea University are well-known."
+      "content": "Korea has many excellent universities. Seoul National University, Yonsei University, and Korea University are well-known.",
+      "details": "Korea has many excellent universities. Seoul National University, Yonsei University, and Korea University are well-known."
     },
     "scholarships": {
       "title": "Scholarships",
-      "content": "The Korean government and universities offer various scholarship programs. There are merit-based scholarships and scholarships for international students."
+      "content": "The Korean government and universities offer various scholarship programs. There are merit-based scholarships and scholarships for international students.",
+      "details": "The Korean government and universities offer various scholarship programs. There are merit-based scholarships and scholarships for international students."
     },
     "admission": {
       "title": "Admission",
-      "content": "Korean university admission is highly competitive. Korean language proficiency, academic performance, and recommendation letters are important."
+      "content": "Korean university admission is highly competitive. Korean language proficiency, academic performance, and recommendation letters are important.",
+      "details": "Korean university admission is highly competitive. Korean language proficiency, academic performance, and recommendation letters are important."
     },
     "languageRequirements": {
       "title": "Language Requirements",
-      "content": "Most Korean universities require Korean language proficiency. TOPIK test scores are required, and some universities also offer programs taught in English. You can prepare at Korean language academies."
+      "content": "Most Korean universities require Korean language proficiency. TOPIK test scores are required, and some universities also offer programs taught in English. You can prepare at Korean language academies.",
+      "details": "Most Korean universities require Korean language proficiency. TOPIK test scores are required, and some universities also offer programs taught in English. You can prepare at Korean language academies."
     },
     "costs": {
       "title": "Costs",
-      "content": "Korean university tuition varies by university. National universities are relatively cheap, while private universities are more expensive. Living expenses, accommodation costs, and textbook costs must be considered."
+      "content": "Korean university tuition varies by university. National universities are relatively cheap, while private universities are more expensive. Living expenses, accommodation costs, and textbook costs must be considered.",
+      "details": "Korean university tuition varies by university. National universities are relatively cheap, while private universities are more expensive. Living expenses, accommodation costs, and textbook costs must be considered."
     },
     "studentLife": {
       "title": "Student Life",
-      "content": "Korean university life is vibrant with various activities. You can enjoy clubs, festivals, and exchange student programs."
+      "content": "Korean university life is vibrant with various activities. You can enjoy clubs, festivals, and exchange student programs.",
+      "details": "Korean university life is vibrant with various activities. You can enjoy clubs, festivals, and exchange student programs."
     },
     "partTimeWork": {
       "title": "Part-time Work",
-      "content": "International students can also work part-time within the scope permitted by their visa. You can work at cafes, convenience stores, restaurants, etc., and the minimum hourly wage is guaranteed."
+      "content": "International students can also work part-time within the scope permitted by their visa. You can work at cafes, convenience stores, restaurants, etc., and the minimum hourly wage is guaranteed.",
+      "details": "International students can also work part-time within the scope permitted by their visa. You can work at cafes, convenience stores, restaurants, etc., and the minimum hourly wage is guaranteed."
     },
     "afterGraduation": {
       "title": "After Graduation",
-      "content": "After graduating from a Korean university, you can convert to an employment visa or return to your home country. If you want to work in Korea, Korean language skills and professional knowledge are important."
+      "content": "After graduating from a Korean university, you can convert to an employment visa or return to your home country. If you want to work in Korea, Korean language skills and professional knowledge are important.",
+      "details": "After graduating from a Korean university, you can convert to an employment visa or return to your home country. If you want to work in Korea, Korean language skills and professional knowledge are important."
     }
   },
   "TravelPage": {
@@ -181,43 +197,53 @@
     "viewMore": "View More",
     "popularDestinations": {
       "title": "Popular Destinations",
-      "content": "Korea offers many amazing destinations. Seoul, Busan, Jeju Island, and Gyeongju are must-visit places for tourists."
+      "content": "Korea offers many amazing destinations. Seoul, Busan, Jeju Island, and Gyeongju are must-visit places for tourists.",
+      "details": "Korea offers many amazing destinations. Seoul, Busan, Jeju Island, and Gyeongju are must-visit places for tourists."
     },
     "touristTransportation": {
       "title": "Tourist Transportation",
-      "content": "Getting around Korea is easy with excellent public transportation. Subways, buses, and trains connect all major tourist destinations."
+      "content": "Getting around Korea is easy with excellent public transportation. Subways, buses, and trains connect all major tourist destinations.",
+      "details": "Getting around Korea is easy with excellent public transportation. Subways, buses, and trains connect all major tourist destinations."
     },
     "hotelsAccommodation": {
       "title": "Hotels & Accommodation",
-      "content": "Korea offers various accommodation options for tourists, from luxury hotels to traditional hanok stays and budget-friendly guesthouses."
+      "content": "Korea offers various accommodation options for tourists, from luxury hotels to traditional hanok stays and budget-friendly guesthouses.",
+      "details": "Korea offers various accommodation options for tourists, from luxury hotels to traditional hanok stays and budget-friendly guesthouses."
     },
     "foodRestaurants": {
       "title": "Food & Restaurants",
-      "content": "Korean cuisine is a highlight of any trip. From street food to fine dining, there are countless restaurants and food experiences to discover."
+      "content": "Korean cuisine is a highlight of any trip. From street food to fine dining, there are countless restaurants and food experiences to discover.",
+      "details": "Korean cuisine is a highlight of any trip. From street food to fine dining, there are countless restaurants and food experiences to discover."
     },
     "cultureTraditions": {
       "title": "Culture & Traditions",
-      "content": "Experience Korea's rich culture through traditional performances, temples, palaces, and cultural festivals throughout the year."
+      "content": "Experience Korea's rich culture through traditional performances, temples, palaces, and cultural festivals throughout the year.",
+      "details": "Experience Korea's rich culture through traditional performances, temples, palaces, and cultural festivals throughout the year."
     },
     "tripPlanning": {
       "title": "Trip Planning",
-      "content": "Plan your perfect trip to Korea with tips on best times to visit, itinerary suggestions, and essential travel information."
+      "content": "Plan your perfect trip to Korea with tips on best times to visit, itinerary suggestions, and essential travel information.",
+      "details": "Plan your perfect trip to Korea with tips on best times to visit, itinerary suggestions, and essential travel information."
     },
     "seasonsWeather": {
       "title": "Seasons & Weather",
-      "content": "Korea has four distinct seasons. Spring and autumn are ideal for travel, with cherry blossoms in spring and colorful foliage in autumn."
+      "content": "Korea has four distinct seasons. Spring and autumn are ideal for travel, with cherry blossoms in spring and colorful foliage in autumn.",
+      "details": "Korea has four distinct seasons. Spring and autumn are ideal for travel, with cherry blossoms in spring and colorful foliage in autumn."
     },
     "travelBudget": {
       "title": "Travel Budget",
-      "content": "Korea can be traveled on various budgets. Learn about costs for accommodation, food, transportation, and activities to plan your expenses."
+      "content": "Korea can be traveled on various budgets. Learn about costs for accommodation, food, transportation, and activities to plan your expenses.",
+      "details": "Korea can be traveled on various budgets. Learn about costs for accommodation, food, transportation, and activities to plan your expenses."
     },
     "touristSafety": {
       "title": "Tourist Safety",
-      "content": "Korea is one of the safest countries in the world. Learn about safety tips, emergency contacts, and how to stay safe during your travels."
+      "content": "Korea is one of the safest countries in the world. Learn about safety tips, emergency contacts, and how to stay safe during your travels.",
+      "details": "Korea is one of the safest countries in the world. Learn about safety tips, emergency contacts, and how to stay safe during your travels."
     },
     "attractions": {
       "title": "Attractions",
-      "content": "Discover Korea's top attractions including palaces, temples, museums, theme parks, and natural wonders that showcase the country's beauty."
+      "content": "Discover Korea's top attractions including palaces, temples, museums, theme parks, and natural wonders that showcase the country's beauty.",
+      "details": "Discover Korea's top attractions including palaces, temples, museums, theme parks, and natural wonders that showcase the country's beauty."
     }
   },
   "HalalPage": {
@@ -226,35 +252,43 @@
     "viewMore": "View More",
     "halalRestaurants": {
       "title": "Halal Restaurants",
-      "content": "Find halal-certified restaurants and Muslim-friendly dining options throughout Korea. Many restaurants in Itaewon, Seoul, and other major cities offer halal food."
+      "content": "Find halal-certified restaurants and Muslim-friendly dining options throughout Korea. Many restaurants in Itaewon, Seoul, and other major cities offer halal food.",
+      "details": "Find halal-certified restaurants and Muslim-friendly dining options throughout Korea. Many restaurants in Itaewon, Seoul, and other major cities offer halal food."
     },
     "mosques": {
       "title": "Mosques",
-      "content": "Discover mosques and Islamic prayer facilities in Korea. The Seoul Central Mosque in Itaewon is the largest, with several other mosques in major cities."
+      "content": "Discover mosques and Islamic prayer facilities in Korea. The Seoul Central Mosque in Itaewon is the largest, with several other mosques in major cities.",
+      "details": "Discover mosques and Islamic prayer facilities in Korea. The Seoul Central Mosque in Itaewon is the largest, with several other mosques in major cities."
     },
     "halalFood": {
       "title": "Halal Food",
-      "content": "Learn about halal food options, halal certification, and where to find halal ingredients and products in Korean supermarkets and stores."
+      "content": "Learn about halal food options, halal certification, and where to find halal ingredients and products in Korean supermarkets and stores.",
+      "details": "Learn about halal food options, halal certification, and where to find halal ingredients and products in Korean supermarkets and stores."
     },
     "islamicCommunity": {
       "title": "Islamic Community",
-      "content": "Connect with the Muslim community in Korea. Find information about Islamic centers, community events, and support networks for Muslims."
+      "content": "Connect with the Muslim community in Korea. Find information about Islamic centers, community events, and support networks for Muslims.",
+      "details": "Connect with the Muslim community in Korea. Find information about Islamic centers, community events, and support networks for Muslims."
     },
     "prayerFacilities": {
       "title": "Prayer Facilities",
-      "content": "Locate prayer rooms and facilities in airports, shopping malls, universities, and public places throughout Korea for daily prayers."
+      "content": "Locate prayer rooms and facilities in airports, shopping malls, universities, and public places throughout Korea for daily prayers.",
+      "details": "Locate prayer rooms and facilities in airports, shopping malls, universities, and public places throughout Korea for daily prayers."
     },
     "halalShopping": {
       "title": "Halal Shopping",
-      "content": "Find halal-certified products, Islamic clothing, prayer items, and other Muslim necessities in Korea's shopping districts and online stores."
+      "content": "Find halal-certified products, Islamic clothing, prayer items, and other Muslim necessities in Korea's shopping districts and online stores.",
+      "details": "Find halal-certified products, Islamic clothing, prayer items, and other Muslim necessities in Korea's shopping districts and online stores."
     },
     "islamicEvents": {
       "title": "Islamic Events",
-      "content": "Stay informed about Islamic holidays, community gatherings, religious events, and cultural celebrations organized by the Muslim community in Korea."
+      "content": "Stay informed about Islamic holidays, community gatherings, religious events, and cultural celebrations organized by the Muslim community in Korea.",
+      "details": "Stay informed about Islamic holidays, community gatherings, religious events, and cultural celebrations organized by the Muslim community in Korea."
     },
     "muslimFriendlyServices": {
       "title": "Muslim-Friendly Services",
-      "content": "Discover Muslim-friendly hotels, travel services, healthcare facilities, and other services that accommodate Islamic requirements and preferences."
+      "content": "Discover Muslim-friendly hotels, travel services, healthcare facilities, and other services that accommodate Islamic requirements and preferences.",
+      "details": "Discover Muslim-friendly hotels, travel services, healthcare facilities, and other services that accommodate Islamic requirements and preferences."
     }
   },
   "PrivacyPage": {
