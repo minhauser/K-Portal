@@ -38,7 +38,6 @@
     "library": "Kutubxona",
     "travel": "Sayohat",
     "halal": "Halol",
-    "chat": "Chat",
     "signIn": "Kirish",
     "signOut": "Chiqish"
   },
@@ -56,18 +55,6 @@
     "privacy": "Maxfiylik siyosati",
     "terms": "Xizmat shartlari",
     "rights": "Barcha huquqlar himoyalangan"
-  },
-  "ChatPage": {
-    "title": "AI Chat Yordamchisi",
-    "description": "Koreyada yashash, ishlash va o'qish haqida har qanday narsani so'rang",
-    "signInRequired": "Kirish talab qilinadi",
-    "signInDescription": "Chat xizmatidan foydalanish uchun Google hisobi bilan kiring",
-    "signInWithGoogle": "Google orqali kirish"
-  },
-  "Chat": {
-    "welcome": "Salom! Koreyada yashash, ishlash va o'qish haqida har qanday narsani so'rang.",
-    "placeholder": "Xabaringizni kiriting...",
-    "error": "Kechirasiz, xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
   },
   "LifePage": {
     "title": "Koreyada Hayot",

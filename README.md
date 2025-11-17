@@ -8,7 +8,7 @@
 - 🌍 **4개 언어 지원**: 한국어, 영어, 러시아어, 우즈벡어
 - 🌙 **다크/라이트 테마**: 사용자 선호도에 맞는 테마 전환
 - 🔐 **Google OAuth 인증**: Google 계정으로 간편 로그인
-- 🤖 **AI 채팅 어시스턴트**: 실시간 질문 답변
+- 📚 **PDF 도서관**: 한국어 학습을 위한 PDF 책 모음
 - 📱 **반응형 디자인**: 모든 기기에서 최적화된 경험
 - ⚡ **빠른 성능**: Next.js 14와 최적화된 기술 스택
 - 🔍 **SEO 최적화**: Google, Yandex, Naver 검색 엔진 최적화
@@ -21,7 +21,6 @@
 - **Internationalization**: next-intl
 - **Authentication**: NextAuth.js
 - **Database**: Prisma + SQLite
-- **AI**: OpenAI API
 - **Icons**: Lucide React
 
 ## 시작하기
@@ -47,7 +46,6 @@ NEXTAUTH_URL=http://localhost:3000
 NEXTAUTH_SECRET=your-secret-key-here
 GOOGLE_CLIENT_ID=your-google-client-id
 GOOGLE_CLIENT_SECRET=your-google-client-secret
-OPENAI_API_KEY=your-openai-api-key
 ```
 
 3. 데이터베이스 초기화:
@@ -112,7 +110,3 @@ MIT
 ## 기여
 
 프로젝트 개선에 기여해주시면 감사하겠습니다!
-
-=======
-# K-Portal
->>>>>>> 526f1a977a3a9d14b3c765efb94c68b6bf44ecb7

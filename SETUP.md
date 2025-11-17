@@ -24,10 +24,6 @@ NEXTAUTH_SECRET=your-secret-key-here-generate-with-openssl-rand-base64-32
 # Получите эти значения на https://console.cloud.google.com/apis/credentials
 GOOGLE_CLIENT_ID=your-google-client-id
 GOOGLE_CLIENT_SECRET=your-google-client-secret
-
-# OpenAI API
-# Получите API ключ на https://platform.openai.com/api-keys
-OPENAI_API_KEY=your-openai-api-key
 ```
 
 ### 3. Генерация секретного ключа для NextAuth

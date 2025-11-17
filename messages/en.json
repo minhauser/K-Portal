@@ -38,7 +38,6 @@
     "library": "Library",
     "travel": "Travel",
     "halal": "Halal",
-    "chat": "Chat",
     "signIn": "Sign In",
     "signOut": "Sign Out"
   },
@@ -55,18 +54,6 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "rights": "All rights reserved"
-  },
-  "ChatPage": {
-    "title": "AI Chat Assistant",
-    "description": "Ask anything about life, work, and study in Korea",
-    "signInRequired": "Sign In Required",
-    "signInDescription": "Please sign in with your Google account to use the chat feature",
-    "signInWithGoogle": "Sign In with Google"
-  },
-  "Chat": {
-    "welcome": "Hello! Ask me anything about life, work, and study in Korea.",
-    "placeholder": "Type your message...",
-    "error": "Sorry, an error occurred. Please try again."
   },
   "LifePage": {
     "title": "Life in Korea",

@@ -38,7 +38,6 @@
     "library": "도서관",
     "travel": "여행",
     "halal": "할랄",
-    "chat": "채팅",
     "signIn": "로그인",
     "signOut": "로그아웃"
   },
@@ -56,18 +55,6 @@
     "privacy": "개인정보처리방침",
     "terms": "이용약관",
     "rights": "모든 권리 보유"
-  },
-  "ChatPage": {
-    "title": "AI 채팅 어시스턴트",
-    "description": "한국에서의 생활, 일, 공부에 대해 무엇이든 물어보세요",
-    "signInRequired": "로그인이 필요합니다",
-    "signInDescription": "채팅 기능을 사용하려면 Google 계정으로 로그인해주세요",
-    "signInWithGoogle": "Google로 로그인"
-  },
-  "Chat": {
-    "welcome": "안녕하세요! 한국에서의 생활, 일, 공부에 대해 무엇이든 물어보세요.",
-    "placeholder": "메시지를 입력하세요...",
-    "error": "죄송합니다. 오류가 발생했습니다. 다시 시도해주세요."
   },
   "LifePage": {
     "title": "한국에서의 생활",

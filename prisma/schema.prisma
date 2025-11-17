@@ -45,16 +45,6 @@ model VerificationToken {
   @@unique([identifier, token])
 }
 
-model ChatMessage {
-  id        String   @id @default(cuid())
-  userId    String
-  message   String
-  response  String
-  createdAt DateTime @default(now())
-  
-  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
-}
-
 model User {
   id            String    @id @default(cuid())
   name          String?
@@ -63,7 +53,6 @@ model User {
   image         String?
   accounts      Account[]
   sessions      Session[]
-  chatMessages  ChatMessage[]
   books         Book[]
   createdAt     DateTime  @default(now())
   updatedAt     DateTime  @updatedAt
