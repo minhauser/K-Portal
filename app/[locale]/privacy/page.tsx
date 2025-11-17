@@ -1,4 +1,4 @@
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -6,7 +6,13 @@ export const metadata: Metadata = {
   description: 'Privacy Policy and Data Protection',
 };
 
-export default async function PrivacyPage() {
+export default async function PrivacyPage({
+  params: { locale },
+}: {
+  params: { locale: string };
+}) {
+  setRequestLocale(locale);
+
   const t = await getTranslations('PrivacyPage');
 
   return (

@@ -6,6 +6,8 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { Loader2 } from 'lucide-react';
 
+export const dynamic = 'force-dynamic';
+
 export default function SignInPage() {
   const t = useTranslations('SignInPage');
   const searchParams = useSearchParams();

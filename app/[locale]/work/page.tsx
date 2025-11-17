@@ -1,4 +1,4 @@
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Metadata } from 'next';
 import { Link } from '@/components/link';
 
@@ -7,7 +7,13 @@ export const metadata: Metadata = {
   description: 'Guide to working in South Korea',
 };
 
-export default async function WorkPage() {
+export default async function WorkPage({
+  params: { locale },
+}: {
+  params: { locale: string };
+}) {
+  setRequestLocale(locale);
+
   const t = await getTranslations('WorkPage');
 
   const sections = [

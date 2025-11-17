@@ -1,4 +1,4 @@
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { Link } from '@/components/link';
@@ -27,6 +27,8 @@ export async function generateMetadata({
 }: {
   params: { locale: string; section: string };
 }): Promise<Metadata> {
+  setRequestLocale(locale);
+
   const t = await getTranslations('TravelPage');
   
   if (!validSections.includes(section)) {
@@ -46,6 +48,8 @@ export default async function TravelSectionPage({
 }: {
   params: { locale: string; section: string };
 }) {
+  setRequestLocale(locale);
+
   const t = await getTranslations('TravelPage');
 
   if (!validSections.includes(section)) {

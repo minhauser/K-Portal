@@ -1,4 +1,4 @@
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Metadata } from 'next';
 import { LibraryContent } from '@/components/library-content';
 
@@ -7,7 +7,13 @@ export const metadata: Metadata = {
   description: 'Korean language books library',
 };
 
-export default async function LibraryPage() {
+export default async function LibraryPage({
+  params: { locale },
+}: {
+  params: { locale: string };
+}) {
+  setRequestLocale(locale);
+
   const t = await getTranslations('LibraryPage');
 
   return (

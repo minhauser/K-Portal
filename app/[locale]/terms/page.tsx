@@ -1,4 +1,4 @@
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -6,7 +6,13 @@ export const metadata: Metadata = {
   description: 'Terms of Service and User Agreement',
 };
 
-export default async function TermsPage() {
+export default async function TermsPage({
+  params: { locale },
+}: {
+  params: { locale: string };
+}) {
+  setRequestLocale(locale);
+
   const t = await getTranslations('TermsPage');
 
   return (

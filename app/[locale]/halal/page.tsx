@@ -1,4 +1,4 @@
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Metadata } from 'next';
 import { Link } from '@/components/link';
 
@@ -7,7 +7,13 @@ export const metadata: Metadata = {
   description: 'Complete guide for Muslims living in or visiting Korea',
 };
 
-export default async function HalalPage() {
+export default async function HalalPage({
+  params: { locale },
+}: {
+  params: { locale: string };
+}) {
+  setRequestLocale(locale);
+
   const t = await getTranslations('HalalPage');
 
   const sections = [

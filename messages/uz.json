@@ -82,11 +82,13 @@
     },
     "shopping": {
       "title": "Xarid qilish",
-      "content": "Koreya xarid qilish jannati. Myeongdong, Hongdae va Itaewon kabi turli xil xarid qilish hududlari mavjud, onlayn xarid markazlari ham juda rivojlangan. Chet ellik sayyohlar uchun mashhur bo'lgan ko'plab bejo xarid do'konlari mavjud."
+      "content": "Koreya xarid qilish jannati. Myeongdong, Hongdae va Itaewon kabi turli xil xarid qilish hududlari mavjud, onlayn xarid markazlari ham juda rivojlangan. Chet ellik sayyohlar uchun mashhur bo'lgan ko'plab bejo xarid do'konlari mavjud.",
+      "details": "Koreya haqiqatan ham xarid qilish jannati bo'lib, hashamatli brendlardan tortib noyob mahalliy mahsulotlargacha hamma narsani taklif etadi.\n\n**Mashhur xarid qilish hududlari**:\n- **Myeongdong (명동)**: Kosmetika, moda va ko'cha taomlari bilan turistik markaz\n- **Hongdae (홍대)**: Zamonaviy moda, kafelar va tunggi hayot bilan yoshlar madaniyati markazi\n- **Gangnam (강남)**: Hashamatli brendlar va universal do'konlar bilan yuqori darajadagi xaridlar\n- **Itaewon (이태원)**: Turli xil do'konlar va restoranlar bilan xalqaro tuman\n- **Dongdaemun (동대문)**: Moda va to'qimachilik uchun 24 soat xarid majmuasi\n- **Insadong (인사동)**: An'anaviy koreys hunarmandchilik buyumlari va esdaliklar\n\n**Xarid qilish formatlari**:\n- **Universal do'konlar**: Lotte, Shinsegae, Hyundai - yuqori darajadagi xaridlar\n- **Bozorlar**: Namdaemun va Gwangjang kabi an'anaviy bozorlar mahalliy mahsulotlar uchun\n- **Bejo xarid do'konlari**: Aeroportlar va asosiy xarid qilish hududlarida mavjud (pasport ko'rsating)\n- **Onlayn xaridlar**: Gmarket, Coupang, 11st - Koreyaning yetakchi elektron tijorat platformalari\n\n**Xarid qilish maslahatlari**:\n- Ko'plab do'konlar sayyohlar uchun soliq qaytaradi ('Tax Free' belgilarini qidiring)\n- Savdo odatda an'anaviy bozorlardan tashqarida keng tarqalgan emas\n- Kredit kartalari keng qabul qilinadi, lekin ba'zi joylarda naqd pul hali ham afzalroq\n- Onlayn xaridlar ko'pincha yaxshiroq narxlarni va bepul yetkazib berishni taklif etadi"
     },
     "food": {
       "title": "Ovqat",
-      "content": "Koreys ovqati sog'lom va mazali. Kimchi, bulgogi va bibimbap mashhur bo'lib, turli xil restoranlar va ovqatxonalar mavjud. Yetkazib berish xizmatlari ham juda rivojlangan va qulay."
+      "content": "Koreys ovqati sog'lom va mazali. Kimchi, bulgogi va bibimbap mashhur bo'lib, turli xil restoranlar va ovqatxonalar mavjud. Yetkazib berish xizmatlari ham juda rivojlangan va qulay.",
+      "details": "Koreys oshxonasi o'zining kuchli lazzatlari, sog'liqqa foydasi va xilma-xilligi bilan mashhur. Koreys ovqati muvozanatni ta'kidlaydi, ovqatlar odatda guruch, sho'rva, asosiy taomlar va bir nechta garnirlar (반찬) ni o'z ichiga oladi.\n\n**Taste kechirish kerak bo'lgan taomlar**:\n- **Kimchi (김치)**: Fermentatsiya qilingan sabzavotlar, Koreyaning milliy taomi\n- **Bulgogi (불고기)**: Marinadlangan grilda qilingan mol go'shti\n- **Bibimbap (비빔밥)**: Sabzavotlar va go'sht bilan aralashgan guruch\n- **Koreys BBQ (고기구이)**: Stolingizda grilda qilingan go'sht\n- **Jjigae (찌개)**: Kimchi jjigae va doenjang jjigae kabi achchiq sho'rvalar\n- **Tteokbokki (떡볶이)**: Achchiq guruch keklari, mashhur ko'cha taomi\n- **Samgyeopsal (삼겹살)**: Grilda qilingan cho'chqa qorni\n\n**Ovqatlanish madaniyati**:\n- **Banchan**: Har bir ovqat bilan beriladigan bepul garnirlar\n- **Ulashish**: Ko'plab koreys ovqatlari ulashish uchun mo'ljallangan\n- **Ichimlik madaniyati**: Soju (소주) - Koreyaning milliy ichimligi, ko'pincha ovqat bilan iste'mol qilinadi\n- **Ko'cha taomlari**: Bozorlar va universitet hududlarida, ayniqsa, ko'p va arzon\n\n**Yetkazib berish xizmatlari**:\nKoreyada ajoyib ovqat yetkazib berish xizmatlari mavjud. Baemin (배달의민족), Yogiyo (요기요) va Coupang Eats kabi ilovalar minglab restoranlardan yetkazib berishni taklif etadi. Yetkazib berish narxlari past (odatda 2000-4000 won) va yetkazib berish tez (odatda 20-40 daqiqa)."
     },
     "language": {
       "title": "Til",
@@ -152,7 +154,8 @@
     },
     "costs": {
       "title": "Xarajatlar",
-      "content": "Koreys universitetlari o'quv haqi universitetga qarab farq qiladi. Davlat universitetlari nisbatan arzon, xususiy universitetlar esa qimmatroq. Yashash xarajatlari, yashash joyi va darslik xarajatlarini hisobga olish kerak."
+      "content": "Koreys universitetlari o'quv haqi universitetga qarab farq qiladi. Davlat universitetlari nisbatan arzon, xususiy universitetlar esa qimmatroq. Yashash xarajatlari, yashash joyi va darslik xarajatlarini hisobga olish kerak.",
+      "details": "Koreys universitetlari o'quv haqi universitetga qarab farq qiladi. Davlat universitetlari nisbatan arzon, xususiy universitetlar esa qimmatroq. Yashash xarajatlari, yashash joyi va darslik xarajatlarini hisobga olish kerak."
     },
     "studentLife": {
       "title": "Talaba hayoti",
@@ -246,7 +249,8 @@
     },
     "muslimFriendlyServices": {
       "title": "Musulmonlarga mos xizmatlar",
-      "content": "Islomiy talablar va afzalliklarni qondiradigan musulmonlarga mos mehmonxonalar, sayohat xizmatlari, sog'liqni saqlash muassasalari va boshqa xizmatlarni kashf eting."
+      "content": "Islomiy talablar va afzalliklarni qondiradigan musulmonlarga mos mehmonxonalar, sayohat xizmatlari, sog'liqni saqlash muassasalari va boshqa xizmatlarni kashf eting.",
+      "details": "Islomiy talablar va afzalliklarni qondiradigan musulmonlarga mos mehmonxonalar, sayohat xizmatlari, sog'liqni saqlash muassasalari va boshqa xizmatlarni kashf eting."
     }
   },
   "PrivacyPage": {
