@@ -9,7 +9,8 @@ interface Book {
   title: string;
   description: string;
   category: string;
-  driveUrl: string;
+  filename?: string | null;
+  driveUrl?: string | null;
 }
 
 const categories = [
@@ -44,25 +45,35 @@ export function LibraryContent() {
     }
   };
 
-  const handleView = (driveUrl: string) => {
-    // Convert Google Drive share link to viewer link
-    const fileId = driveUrl.match(/\/d\/([a-zA-Z0-9_-]+)/)?.[1];
-    if (fileId) {
-      const viewerUrl = `https://drive.google.com/file/d/${fileId}/preview`;
-      window.open(viewerUrl, '_blank');
-    } else {
-      window.open(driveUrl, '_blank');
+  const handleView = (book: Book) => {
+    if (book.driveUrl) {
+      // Convert Google Drive share link to viewer link
+      const fileId = book.driveUrl.match(/\/d\/([a-zA-Z0-9_-]+)/)?.[1];
+      if (fileId) {
+        const viewerUrl = `https://drive.google.com/file/d/${fileId}/preview`;
+        window.open(viewerUrl, '_blank');
+      } else {
+        window.open(book.driveUrl, '_blank');
+      }
+    } else if (book.filename) {
+      // Open local file in new tab
+      window.open(`/api/books/download/${book.filename}`, '_blank');
     }
   };
 
-  const handleDownload = (driveUrl: string) => {
-    // Convert Google Drive share link to download link
-    const fileId = driveUrl.match(/\/d\/([a-zA-Z0-9_-]+)/)?.[1];
-    if (fileId) {
-      const downloadUrl = `https://drive.google.com/uc?export=download&id=${fileId}`;
-      window.open(downloadUrl, '_blank');
-    } else {
-      window.open(driveUrl, '_blank');
+  const handleDownload = (book: Book) => {
+    if (book.driveUrl) {
+      // Convert Google Drive share link to download link
+      const fileId = book.driveUrl.match(/\/d\/([a-zA-Z0-9_-]+)/)?.[1];
+      if (fileId) {
+        const downloadUrl = `https://drive.google.com/uc?export=download&id=${fileId}`;
+        window.open(downloadUrl, '_blank');
+      } else {
+        window.open(book.driveUrl, '_blank');
+      }
+    } else if (book.filename) {
+      // Download local file
+      window.open(`/api/books/download/${book.filename}`, '_blank');
     }
   };
 
@@ -118,15 +129,17 @@ export function LibraryContent() {
               )}
               <div className="flex space-x-2 mt-auto">
                 <button
-                  onClick={() => handleView(book.driveUrl)}
-                  className="flex-1 flex items-center justify-center space-x-2 px-4 py-2 bg-primary text-primary-foreground rounded-lg hover:opacity-90 transition-opacity"
+                  onClick={() => handleView(book)}
+                  disabled={!book.driveUrl && !book.filename}
+                  className="flex-1 flex items-center justify-center space-x-2 px-4 py-2 bg-primary text-primary-foreground rounded-lg hover:opacity-90 transition-opacity disabled:opacity-50 disabled:cursor-not-allowed"
                 >
                   <Eye className="w-4 h-4" />
                   <span>{t('view')}</span>
                 </button>
                 <button
-                  onClick={() => handleDownload(book.driveUrl)}
-                  className="flex-1 flex items-center justify-center space-x-2 px-4 py-2 border rounded-lg hover:bg-muted transition-colors"
+                  onClick={() => handleDownload(book)}
+                  disabled={!book.driveUrl && !book.filename}
+                  className="flex-1 flex items-center justify-center space-x-2 px-4 py-2 border rounded-lg hover:bg-muted transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
                   title={t('download')}
                 >
                   <Download className="w-4 h-4" />

@@ -74,7 +74,8 @@ model Book {
   title       String
   description String
   category    String   // vocabulary, grammar, topik, writing
-  driveUrl    String   @unique // Google Drive share link
+  filename    String?  // Local file name for uploaded files
+  driveUrl    String?  @unique // Google Drive share link (optional)
   userId      String?
   uploadedAt  DateTime @default(now())
   

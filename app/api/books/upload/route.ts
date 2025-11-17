@@ -18,8 +18,9 @@ export async function POST(req: NextRequest) {
     const file = formData.get('file') as File;
     const title = formData.get('title') as string;
     const description = formData.get('description') as string;
+    const category = formData.get('category') as string;
 
-    if (!file || !title) {
+    if (!file || !title || !category) {
       return NextResponse.json({ error: 'Missing required fields' }, { status: 400 });
     }
 
@@ -49,6 +50,7 @@ export async function POST(req: NextRequest) {
       data: {
         title,
         description: description || '',
+        category,
         filename,
         userId: session.user.id,
       },

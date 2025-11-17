@@ -14,6 +14,7 @@ export async function GET() {
       title: book.title,
       description: book.description,
       category: book.category,
+      filename: book.filename,
       driveUrl: book.driveUrl,
     }));
 
