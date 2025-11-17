@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { getMessages } from 'next-intl/server';
 import { NextIntlClientProvider } from 'next-intl';
-import { locales } from '@/i18n';
+import { locales } from '@/i18n/request';
 import { ThemeProvider } from '@/components/theme-provider';
 import { AuthProvider } from '@/components/auth-provider';
 import { Header } from '@/components/header';

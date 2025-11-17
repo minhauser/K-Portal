@@ -3,7 +3,7 @@
 import NextLink from 'next/link';
 import { useLocale } from 'next-intl';
 import { type ComponentProps } from 'react';
-import { locales } from '@/i18n';
+import { locales } from '@/i18n/request';
 
 type Props = ComponentProps<typeof NextLink> & {
   href: string;
